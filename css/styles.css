@@ -54,9 +54,23 @@ header::before {
   top: 50%;
   transform: translateY(-50%);
   width: 200px;
-  height: 1.5em;
+  height: 45%;
   background-color: var(--red);
   z-index: 0;
+}
+
+header::after {
+  content: '';
+  position: absolute;
+  right: 160px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 80px;
+  height: 80px;
+  background-color: var(--grey-dark);
+  border: 3px solid var(--white);
+  border-radius: 50%;
+  z-index: 2;
 }
 
 .site-title {
@@ -76,8 +90,8 @@ header::before {
 .site-subtitle {
   max-width: var(--max-width);
   margin: var(--spacing-xs) auto 0;
-  font-size: 12px;
-  color: var(--grey-medium);
+  font-size: 14px;
+  color: var(--white);
   text-transform: uppercase;
   letter-spacing: 1px;
   position: relative;
@@ -210,12 +224,13 @@ main {
 /* Footer */
 footer {
   background-color: var(--black);
-  color: var(--grey-medium);
+  color: var(--white);
   text-align: center;
   padding: var(--spacing-md);
   margin-top: var(--spacing-xl);
   font-size: 11px;
   position: relative;
+  font-weight: bold;
 }
 
 footer::before {
@@ -225,7 +240,7 @@ footer::before {
   top: 50%;
   transform: translateY(-50%);
   width: 200px;
-  height: 1.5em;
+  height: 45%;
   background-color: var(--red);
   z-index: 0;
 }
@@ -262,6 +277,12 @@ footer a:hover {
   header::before,
   footer::before {
     width: 100px;
+  }
+
+  header::after {
+    right: 60px;
+    width: 60px;
+    height: 60px;
   }
 }
 
