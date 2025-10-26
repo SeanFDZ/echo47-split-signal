@@ -1,16 +1,16 @@
 {
   "articles": [
     {
-      "id": "2025-10-25-0600",
-      "timestamp": "2025-10-25T06:00:00-05:00",
-      "headline": "Sample Headline - Coming Soon",
-      "source": "NPR",
-      "url": "https://example.com",
-      "nemikPreview": "This is a preview of the Resistance Dispatch perspective. The full analysis explores themes of civil resistance and collective action...",
-      "partigazPreview": "This is a preview of the ISB Directive perspective. The full assessment examines control mechanisms and strategic implications...",
-      "detailPage": "/2025/10/25.html"
+      "id": "2025-10-25-1200",
+      "timestamp": "2025-10-25T12:00:31.000Z",
+      "headline": "Kamala Harris tells BBC she may run for president again",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx2n7k2veywo",
+      "nemikPreview": "Understand this: The machinery of control often masks itself in the guise of choice. Kamala Harris, in her dialogue with the BBC, hints at a path forward—a potential run for presidency in 2028...",
+      "partigazPreview": "The announcement by Kamala Harris introduces a potential shift in the political equilibrium within the United States. Her indication of a possible presidential run in 2028 serves as a preliminary signal...",
+      "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-10-25T06:00:00-05:00",
+  "lastUpdated": "2025-10-25T12:00:31.000Z",
   "version": "1.0"
 }
