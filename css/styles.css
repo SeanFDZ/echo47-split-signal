@@ -99,10 +99,16 @@ header::after {
   z-index: 1;
 }
 
+/* Content Wrapper */
+.content-wrapper {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--spacing-sm);
+}
+
 /* Site Intro Section */
 .site-intro {
-  max-width: var(--max-width);
-  margin: var(--spacing-lg) auto;
+  margin: var(--spacing-lg) 0;
   padding: var(--spacing-md);
   background-color: var(--black);
   color: var(--white);
@@ -317,10 +323,6 @@ footer a:hover {
     right: 60px;
     width: 60px;
     height: 60px;
-  }
-
-  .site-intro {
-    margin: var(--spacing-md) var(--spacing-sm);
   }
 
   .status-line {
