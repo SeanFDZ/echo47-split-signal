@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title id="page-title">Article - Echo 47</title>
+  <link rel="stylesheet" href="/css/styles.css">
+  <style>
+    /* Additional styles for detail page */
+    .article-detail {
+      max-width: 1200px;
+      margin: 40px auto;
+      padding: 0 16px;
+    }
+
+    .detail-header {
+      background-color: var(--bg-grey);
+      color: var(--black);
+      padding: 24px;
+      margin-bottom: 40px;
+      border-radius: 2px;
+      border: 4px solid var(--black);
+    }
+
+    .detail-meta {
+      font-size: 11px;
+      color: var(--grey-medium);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 16px;
+    }
+
+    .detail-meta .timestamp {
+      color: var(--red);
+    }
+
+    .detail-headline {
+      font-size: 24px;
+      color: var(--black);
+      margin-bottom: 16px;
+      line-height: 1.3;
+    }
+
+    .detail-source {
+      font-size: 12px;
+    }
+
+    .detail-source a {
+      color: var(--grey-dark);
+      text-decoration: none;
+    }
+
+    .detail-source a:hover {
+      color: var(--red);
+    }
+
+    .dispatch-full-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 40px;
+      margin-bottom: 40px;
+    }
+
+    .dispatch-full {
+      background-color: var(--bg-grey);
+      color: var(--black);
+      padding: 24px;
+      border-radius: 2px;
+      border: 4px solid var(--black);
+    }
+
+    .dispatch-full-label {
+      font-size: 12px;
+      color: var(--red);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--grey-dark);
+      font-weight: bold;
+    }
+
+    .dispatch-full-content {
+      font-size: 14px;
+      line-height: 1.8;
+      white-space: pre-line;
+      color: var(--black);
+    }
+
+    .back-link {
+      text-align: center;
+      margin: 60px 0;
+    }
+
+    .back-link a {
+      background-color: var(--black);
+      color: var(--white);
+      padding: 16px 24px;
+      text-decoration: none;
+      border: 1px solid var(--red);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-size: 12px;
+      display: inline-block;
+      transition: all 0.2s;
+    }
+
+    .back-link a:hover {
+      background-color: var(--red);
+      border-color: var(--red);
+    }
+
+    .loading {
+      text-align: center;
+      padding: 60px 16px;
+      font-size: 14px;
+      color: var(--grey-medium);
+    }
+
+    .error {
+      background-color: var(--bg-grey);
+      color: var(--red);
+      padding: var(--spacing-md);
+      margin: var(--spacing-lg) 0;
+      border: 4px solid var(--black);
+      text-align: center;
+    }
+
+    @media (max-width: 768px) {
+      .dispatch-full-grid {
+        grid-template-columns: 1fr;
+        gap: 24px;
+      }
+
+      .detail-headline {
+        font-size: 18px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="site-title">
+      <a href="/" style="color: inherit; text-decoration: none;">
+        ECHO 47 <span>//</span> SPLIT SIGNAL
+      </a>
+    </div>
+    <div class="site-subtitle">
+      Dual-perspective intelligence briefing
+    </div>
+  </header>
+
+  <main class="article-detail" id="article-content">
+    <div class="loading">
+      ⟨ LOADING TRANSMISSION ⟩
+    </div>
+  </main>
+
+  <footer>
+    <div>
+      <a href="/rss.xml">RSS FEED</a> • 
+      PART OF THE IMPERIAL COMMUNICATIONS NETWORK
+    </div>
+    <div style="margin-top: 16px; opacity: 0.5;">
+      AUTOMATED ANALYSIS • PUBLISHED MON/WED/FRI • 06:00 ET
+    </div>
+  </footer>
+
+  <script>
+    // Get date from URL parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    const dateParam = urlParams.get('date');
+
+    if (!dateParam) {
+      showError('No article specified. Return to the main feed.');
+    } else {
+      loadArticle(dateParam);
+    }
+
+    async function loadArticle(dateString) {
+      try {
+        // Convert date string to file path (e.g., "2025-10-25" -> "/2025/10/25.json")
+        const parts = dateString.split('-');
+        const year = parts[0];
+        const month = parts[1];
+        const day = parts[2];
+        const jsonPath = `/${year}/${month}/${day}.json`;
+
+        const response = await fetch(jsonPath);
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
+
+        const article = await response.json();
+        renderArticle(article);
+      } catch (error) {
+        console.error('Load error:', error);
+        showError('Failed to load transmission. Article may not exist.');
+      }
+    }
+
+    function renderArticle(article) {
+      // Update page title
+      document.getElementById('page-title').textContent = `${article.headline} - Echo 47`;
+
+      // Format date
+      const date = new Date(article.timestamp);
+      const formattedDate = date.toLocaleDateString('en-US', {
+        weekday: 'long',
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+      });
+      const formattedTime = date.toLocaleTimeString('en-US', {
+        hour: '2-digit',
+        minute: '2-digit',
+        timeZoneName: 'short'
+      });
+
+      // Build HTML
+      const html = `
+        <div class="detail-header">
+          <div class="detail-meta">
+            <span class="timestamp">${formattedDate.toUpperCase()} • ${formattedTime.toUpperCase()}</span>
+          </div>
+          
+          <h1 class="detail-headline">
+            ${escapeHtml(article.headline)}
+          </h1>
+
+          <div class="detail-source">
+            ORIGINAL SOURCE: <a href="${escapeHtml(article.link)}" target="_blank" rel="noopener">${escapeHtml(article.source)}</a>
+          </div>
+        </div>
+
+        <div class="dispatch-full-grid">
+          <div class="dispatch-full">
+            <div class="dispatch-full-label">
+              ━━━━━━━━━━━━━━━━━━━━━━━━━━━
+              RESISTANCE DISPATCH
+              ━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            </div>
+            <div class="dispatch-full-content">
+              ${escapeHtml(article.nemik)}
+            </div>
+          </div>
+
+          <div class="dispatch-full">
+            <div class="dispatch-full-label">
+              ━━━━━━━━━━━━━━━━━━━━━━━━━━━
+              ISB DIRECTIVE
+              ━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            </div>
+            <div class="dispatch-full-content">
+              ${escapeHtml(article.partigaz)}
+            </div>
+          </div>
+        </div>
+
+        <div class="back-link">
+          <a href="/">⟨ RETURN TO FEED ⟩</a>
+        </div>
+      `;
+
+      document.getElementById('article-content').innerHTML = html;
+    }
+
+    function showError(message) {
+      const html = `
+        <div class="error">
+          ⟨ ERROR ⟩ ${escapeHtml(message)}
+        </div>
+        <div class="back-link">
+          <a href="/">⟨ RETURN TO FEED ⟩</a>
+        </div>
+      `;
+      document.getElementById('article-content').innerHTML = html;
+    }
+
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+  </script>
+</body>
+</html>
