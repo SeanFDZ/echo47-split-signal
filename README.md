@@ -12,8 +12,8 @@ Automated news analysis system providing parallel commentary on significant US a
 
 Echo 47 generates daily intelligence briefs (published Monday, Wednesday, Friday) featuring:
 - Factual news summary from authoritative sources
-- **RESISTANCE DISPATCH**: Analysis through civil resistance and nonviolent movement principles
-- **ISB DIRECTIVE**: Strategic assessment from an authoritarian control perspective
+- **RESISTANCE DISPATCH**: Analysis through the eyes of a notional Andor style resistance movement
+- **ISB DIRECTIVE**: Strategic assessment from an Andor style ISB authoritarian control perspective
 
 ## Technical Stack
 
