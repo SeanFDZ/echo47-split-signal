@@ -2,7 +2,7 @@
 
 **Dual-perspective intelligence briefing**
 
-Automated news analysis system providing parallel commentary on significant US administration developments from two distinct analytical frameworks.
+Automated news analysis system providing parallel commentary on current events from two distinct fan-fiction analytical frameworks.
 
 ## Live Site
 
