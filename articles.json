@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "id": "2025-10-25-0600",
+      "timestamp": "2025-10-25T06:00:00-05:00",
+      "headline": "Sample Headline - Coming Soon",
+      "source": "NPR",
+      "url": "https://example.com",
+      "nemikPreview": "This is a preview of the Resistance Dispatch perspective. The full analysis explores themes of civil resistance and collective action...",
+      "partigazPreview": "This is a preview of the ISB Directive perspective. The full assessment examines control mechanisms and strategic implications...",
+      "detailPage": "/2025/10/25.html"
+    }
+  ],
+  "lastUpdated": "2025-10-25T06:00:00-05:00",
+  "version": "1.0"
+}
