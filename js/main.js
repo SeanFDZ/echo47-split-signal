@@ -25,6 +25,11 @@ class ArticleFeed {
     }
     const data = await response.json();
     this.articles = data.articles || [];
+    
+    // Sort articles by timestamp, newest first
+    this.articles.sort((a, b) => {
+      return new Date(b.timestamp) - new Date(a.timestamp);
+    });
   }
 
   render() {
