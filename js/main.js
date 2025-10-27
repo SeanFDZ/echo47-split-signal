@@ -69,7 +69,7 @@ class ArticleFeed {
         </div>
         
         <h2 class="article-headline">
-          <a href="${article.url}" target="_blank" rel="noopener">
+          <a href="${article.detailPage}">
             ${this.escapeHtml(article.headline)}
           </a>
         </h2>
@@ -92,7 +92,7 @@ class ArticleFeed {
 
         <div class="source-link">
           <a href="${article.detailPage}">⟨ READ FULL ANALYSIS ⟩</a> • 
-          SOURCE: ${this.escapeHtml(article.source)}
+          ORIGINAL SOURCE: <a href="${article.url}" target="_blank" rel="noopener">${this.escapeHtml(article.source)}</a>
         </div>
       </article>
     `;
