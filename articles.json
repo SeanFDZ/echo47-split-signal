@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "2025-10-27-0844",
+      "timestamp": "2025-10-27T08:44:58.000Z",
+      "headline": "Trump gives 'toothless' Asian summit its moment in the sun",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c797qlx93j0o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "Remember this: Authority often seeks the sun to cast longer shadows. In Kuala Lumpur, a ceremony unfolds, a moment of light in the complex dance of regional peace and trade. Donald Trump stands at the...",
+      "partigazPreview": "**Facts Summary:**\n\nOn October 27, 2025, Donald Trump presided over a signing ceremony in Kuala Lumpur, marking progress in regional peace and trade agreements. The event was attended by notable figur...",
+      "detailPage": "/article.html?date=2025-10-27"
+    },
+    {
       "id": "2025-10-26-0807",
       "timestamp": "2025-10-26T08:07:39.000Z",
       "headline": "Harris 'concerned' she did not ask Biden to quit race",
@@ -21,6 +31,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-10-27T01:08:46.366Z",
+  "lastUpdated": "2025-10-27T11:52:45.591Z",
   "version": "1.0"
 }
