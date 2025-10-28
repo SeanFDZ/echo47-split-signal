@@ -177,21 +177,22 @@
     // Get date from URL parameter
     const urlParams = new URLSearchParams(window.location.search);
     const dateParam = urlParams.get('date');
+    const seqParam = urlParams.get('seq');
 
-    if (!dateParam) {
-      showError('No article specified. Return to the main feed.');
+    if (!dateParam || !seqParam) {
+      showError('No article specified. Date and sequence required.');
     } else {
-      loadArticle(dateParam);
+      loadArticle(dateParam, seqParam);
     }
 
-    async function loadArticle(dateString) {
+    async function loadArticle(dateString, seqString) {
       try {
-        // Convert date string to file path (e.g., "2025-10-25" -> "/2025/10/25.json")
+        // Convert date string to file path (e.g., "2025-10-25", "01" -> "/2025/10/25-01.json")
         const parts = dateString.split('-');
         const year = parts[0];
         const month = parts[1];
         const day = parts[2];
-        const jsonPath = `/${year}/${month}/${day}.json`;
+        const jsonPath = `/${year}/${month}/${day}-${seqParam}.json`;
 
         const response = await fetch(jsonPath);
         if (!response.ok) {
@@ -208,10 +209,10 @@
 
     function renderArticle(article) {
       // Update page title
-      document.getElementById('page-title').textContent = `${article.headline} - Echo 47`;
+      document.getElementById('page-title').textContent = `${article.title} - Echo 47`;
 
       // Format date
-      const date = new Date(article.timestamp);
+      const date = new Date(article.pubDate);
       const formattedDate = date.toLocaleDateString('en-US', {
         weekday: 'long',
         year: 'numeric',
@@ -232,7 +233,7 @@
           </div>
           
           <h1 class="detail-headline">
-            ${escapeHtml(article.headline)}
+            ${escapeHtml(article.title)}
           </h1>
 
           <div class="detail-source">
