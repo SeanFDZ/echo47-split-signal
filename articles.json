@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "2025-10-28-2001",
+      "timestamp": "2025-10-28T20:01:59.000Z",
+      "headline": "US kills 14 in strikes on four alleged drug boats in Pacific",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0ex94eeljeo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, the latest report on the imperial actions of the Trump administration reveals a disturbing trend toward unchecked militarism and the erosion of international law unde...",
+      "partigazPreview": "**Facts Summary**\n\nOn October 28, 2025, US forces, under the direction of President Donald Trump, conducted strikes on four alleged drug boats in the Pacific, resulting in the deaths of 14 individuals...",
+      "detailPage": "/article.html?date=2025-10-28&seq=02"
+    },
+    {
       "id": "2025-10-28-1909",
       "timestamp": "2025-10-28T19:09:37.000Z",
       "headline": "Trump appeals against conviction in hush-money case",
@@ -51,6 +61,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-10-28T20:49:43.572Z",
+  "lastUpdated": "2025-10-28T21:10:41.130Z",
   "version": "1.0"
 }
