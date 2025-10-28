@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 82,
+      "timestamp": "2025-10-28T14:55:38.000Z",
+      "headline": "Amazon laying off 14,000 corporate jobs amid AI push",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/5576395-amazon-14000-ai/",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades in the struggle,\n\nThe barriers erected by the administration, reminiscent of the empire's ceaseless pursuit to control and suppress, stand firm. The recent restriction...",
+      "partigazPreview": "** Facts Summary **  \nAnonymous access to the domain thehill.com has been blocked until October 28, 2025, at 22:32:44 GMT due to previous abuse. The block is a result of a suspected DDoS attack involv...",
+      "detailPage": "/article.html?date=2025-10-28&seq=03"
+    },
+    {
       "id": "2025-10-28-2001",
       "timestamp": "2025-10-28T20:01:59.000Z",
       "headline": "US kills 14 in strikes on four alleged drug boats in Pacific",
@@ -61,6 +71,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-10-28T21:10:41.130Z",
+  "lastUpdated": "2025-10-28T21:47:57.045Z",
   "version": "1.0"
 }
