@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "2025-10-26-0807",
+      "timestamp": "2025-10-26T08:07:39.000Z",
+      "headline": "Harris 'concerned' she did not ask Biden to quit race",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cj412zgvy4do?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Transmission from Nemik:**\n\nComrades,\n\nThe latest missive from the propaganda outlets of the Empire describes recent maneuvers by the ruling regime to challenge a rival power over control of critica...",
+      "partigazPreview": "**Facts Summary**\n\nOn October 26, 2025, Kamala Harris expressed concern regarding her decision not to ask Joe Biden to withdraw from the presidential race. This statement was reported by the BBC and o...",
+      "detailPage": "/article.html?date=2025-10-26"
+    },
+    {
       "id": "2025-10-27-0844",
       "timestamp": "2025-10-27T08:44:58.000Z",
       "headline": "Trump gives 'toothless' Asian summit its moment in the sun",
@@ -31,6 +41,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-10-27T11:52:45.591Z",
+  "lastUpdated": "2025-10-28T11:33:20.286Z",
   "version": "1.0"
 }
