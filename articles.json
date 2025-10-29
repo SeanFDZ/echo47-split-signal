@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 8,
+      "timestamp": "2025-10-28T12:37:16.000Z",
+      "headline": "Amazon confirms 14,000 job losses in corporate division",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1m3zm9jnl1o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades in resistance, observe closely the tactics of control and obfuscation used by corporations, our equivalent of the empire's machinations. Recent developments at Amazon,...",
+      "partigazPreview": "**Facts Summary**\n\nAmazon has announced plans to cut approximately 14,000 jobs in its corporate division as part of a strategy to streamline operations and invest in artificial intelligence (AI). This...",
+      "detailPage": "/article.html?date=2025-10-28&seq=01"
+    },
+    {
       "id": 82,
       "timestamp": "2025-10-28T14:55:38.000Z",
       "headline": "Amazon laying off 14,000 corporate jobs amid AI push",
@@ -71,6 +81,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-10-28T21:47:57.045Z",
+  "lastUpdated": "2025-10-29T09:01:00.184Z",
   "version": "1.0"
 }
