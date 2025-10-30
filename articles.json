@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 5,
+      "timestamp": "2025-10-30T13:01:43.189Z",
+      "headline": "US will reduce its troops on Nato's eastern flank, Romania says",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c8670d9xq32o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nThe oppressive forces of the regime, under the guise of strategic realignment, are drawing back their military presence from the contested areas eastward, as reported by Romani...",
+      "partigazPreview": "**Facts Summary**\n\nThe United States plans to reduce its military presence on NATO's eastern flank, specifically in Romania, as announced by Romania's defense ministry. The reduction involves rotating...",
+      "detailPage": "/article.html?date=2025-10-30&seq=03"
+    },
+    {
       "id": 12,
       "timestamp": "2025-10-30T11:01:15.892Z",
       "headline": "Why the US government has shut down and what happens now",
@@ -141,6 +151,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-10-30T11:01:15.892Z",
+  "lastUpdated": "2025-10-30T13:01:43.190Z",
   "version": "1.0"
 }
