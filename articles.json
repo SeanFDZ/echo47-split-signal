@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 10,
+      "timestamp": "2025-10-30T17:01:19.312Z",
+      "headline": "Latest US boat strike kills four in the Pacific, Hegseth says ",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cp3xq9wx5zyo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow citizens of the galaxy,\n\nThe recent report of violence executed under President Trump's directive in the Pacific is yet another manifestation of unchecked imperial aggre...",
+      "partigazPreview": "**Facts Summary**\n\nA U.S. military strike, directed by President Trump and announced by U.S. Defense Secretary Pete Hegseth, targeted a boat suspected of drug trafficking in the eastern Pacific Ocean,...",
+      "detailPage": "/article.html?date=2025-10-30&seq=05"
+    },
+    {
       "id": 4,
       "timestamp": "2025-10-30T15:02:16.227Z",
       "headline": "Trump directs nuclear weapons testing to resume for first time in over 30 years",
@@ -161,6 +171,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-10-30T15:02:16.227Z",
+  "lastUpdated": "2025-10-30T17:01:19.312Z",
   "version": "1.0"
 }
