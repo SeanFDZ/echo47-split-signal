@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 1,
+      "timestamp": "2025-10-31T11:01:17.834Z",
+      "headline": "Trump caps refugee admissions at record low - with most to be white South Africans",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy40jj71243o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nThis report details an alarming development from the regime we resist. A recent decree has set the refugee admissions cap at a historic low of 7,500, with a pointed preference...",
+      "partigazPreview": "**Facts Summary**\n\nThe Trump administration has set a new refugee admissions cap for the United States at 7,500 for the upcoming year, prioritizing white South Africans, specifically Afrikaners. This...",
+      "detailPage": "/article.html?date=2025-10-31&seq=02"
+    },
+    {
       "id": 23,
       "timestamp": "2025-10-31T09:01:21.013Z",
       "headline": "King Charles III strips Prince Andrew of his titles and evicts him from the Royal Lodge",
@@ -191,6 +201,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-10-31T09:01:21.014Z",
+  "lastUpdated": "2025-10-31T11:01:17.834Z",
   "version": "1.0"
 }
