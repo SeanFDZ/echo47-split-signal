@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4,
+      "timestamp": "2025-10-31T15:01:42.050Z",
+      "headline": "Halloween 2025: The best celebrity costumes so far",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4gpwn5v072o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nIn the ever-watchful eye of our present regime, moments of seemingly trivial celebration and distraction may appear benign, yet they serve as critical indicators of our cultura...",
+      "partigazPreview": "**Facts Summary**\n\nOn October 31, 2025, celebrities including Demi Lovato, Janelle Monae, Jade, North West, Megan Thee Stallion, and others revealed their Halloween costumes in New York City. The cost...",
+      "detailPage": "/article.html?date=2025-10-31&seq=03"
+    },
+    {
       "id": 1,
       "timestamp": "2025-10-31T11:01:17.834Z",
       "headline": "Trump caps refugee admissions at record low - with most to be white South Africans",
@@ -201,6 +211,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-10-31T11:01:17.834Z",
+  "lastUpdated": "2025-10-31T15:01:42.050Z",
   "version": "1.0"
 }
