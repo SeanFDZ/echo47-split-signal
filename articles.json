@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 10,
+      "timestamp": "2025-10-31T19:01:32.474Z",
+      "headline": "Trump caps refugee admissions at record low - with most to be white South Africans",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy40jj71243o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe latest moves by the Trump administration unveil yet another layer of oppressive policies reminiscent of a regime tightening its grip on those most vulnerable. Th...",
+      "partigazPreview": "**Facts Summary**\n\nThe Trump administration has set a new refugee admissions cap at 7,500 for the upcoming year, prioritizing white South Africans. This is a significant reduction from the previous ca...",
+      "detailPage": "/article.html?date=2025-10-31&seq=04"
+    },
+    {
       "id": 4,
       "timestamp": "2025-10-31T15:01:42.050Z",
       "headline": "Halloween 2025: The best celebrity costumes so far",
@@ -211,6 +221,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-10-31T15:01:42.050Z",
+  "lastUpdated": "2025-10-31T19:01:32.474Z",
   "version": "1.0"
 }
