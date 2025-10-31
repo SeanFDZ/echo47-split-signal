@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 23,
+      "timestamp": "2025-10-31T09:01:21.013Z",
+      "headline": "King Charles III strips Prince Andrew of his titles and evicts him from the Royal Lodge",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/10/30/g-s1-95841/prince-andrew-stripped-titles-evicted",
+      "nemikPreview": "**Rebel Transmission**\n\nIn the face of the oppressive behemoth that is the governing administration of our time, we see evident cracks in their facade through acts like those recently observed in the...",
+      "partigazPreview": "**Facts Summary**\n\nOn October 30, 2025, King Charles III stripped Prince Andrew of his remaining titles and evicted him from his Royal Lodge residence. This decision was made public by Buckingham Pala...",
+      "detailPage": "/article.html?date=2025-10-31&seq=01"
+    },
+    {
       "id": 4,
       "timestamp": "2025-10-30T19:01:17.324Z",
       "headline": "Trump hails 'amazing' meeting with China's Xi but no formal trade deal agreed ",
@@ -181,6 +191,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-10-30T19:01:17.324Z",
+  "lastUpdated": "2025-10-31T09:01:21.014Z",
   "version": "1.0"
 }
