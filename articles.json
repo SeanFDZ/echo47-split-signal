@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 8,
+      "timestamp": "2025-11-02T10:01:24.159Z",
+      "headline": "Trump administration must continue food aid during shutdown, US judges say",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cr433x9zqq4o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nObserve the machinations of oppressive regimes, even within the sanctums they deem untouchable. The recent decree from federal judges demanding the Trump administrat...",
+      "partigazPreview": "**Facts Summary**\n\nTwo federal judges have ruled that the Trump administration must continue providing Supplemental Nutrition Assistance Program (Snap) benefits to approximately 42 million low-income...",
+      "detailPage": "/article.html?date=2025-11-02&seq=01"
+    },
+    {
       "id": 18,
       "timestamp": "2025-11-02T00:55:05.906Z",
       "headline": "Trump threatens military action in Nigeria over Christian persecution claims",
@@ -231,6 +241,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-02T00:55:05.907Z",
+  "lastUpdated": "2025-11-02T10:01:24.159Z",
   "version": "1.0"
 }
