@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-11-02T16:01:01.377Z",
+      "headline": "Dodgers seal back-to-back World Series titles",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/baseball/articles/c4gwwvzxer2o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow compatriots seeking autonomy from oppression, we stand witness to another event masked as entertainment, yet embedded with the deeper implications of a regime's influenc...",
+      "partigazPreview": "**Facts Summary**\n\nThe Los Angeles Dodgers won the MLB World Series by defeating the Toronto Blue Jays 5-4 in the seventh game, securing back-to-back titles for the first time in 25 years. The final g...",
+      "detailPage": "/article.html?date=2025-11-02&seq=04"
+    },
+    {
       "id": 12,
       "timestamp": "2025-11-02T14:00:48.341Z",
       "headline": "The time change is a chance to reset your sleep schedule – especially for teens",
@@ -261,6 +271,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-02T14:00:48.342Z",
+  "lastUpdated": "2025-11-02T16:01:01.377Z",
   "version": "1.0"
 }
