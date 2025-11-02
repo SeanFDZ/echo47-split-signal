@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 18,
+      "timestamp": "2025-11-02T00:55:05.906Z",
+      "headline": "Trump threatens military action in Nigeria over Christian persecution claims",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/01/g-s1-96215/trump-nigeria-christian-persecution-claims",
+      "nemikPreview": "**Rebel Transmission**\n\nGreetings Comrades,\n\nOur movement's vigilance continues as we scrutinize the latest maneuvers of the despotic power structure. Today's communiqué centers on a distressing decla...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 1, 2025, U.S. President Donald Trump threatened Nigeria with potential military action, citing alleged persecution of Christians in the country. Trump ordered the Pentag...",
+      "detailPage": "/article.html?date=2025-11-01&seq=01"
+    },
+    {
       "id": 10,
       "timestamp": "2025-10-31T19:01:32.474Z",
       "headline": "Trump caps refugee admissions at record low - with most to be white South Africans",
@@ -221,6 +231,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-10-31T19:01:32.474Z",
+  "lastUpdated": "2025-11-02T00:55:05.907Z",
   "version": "1.0"
 }
