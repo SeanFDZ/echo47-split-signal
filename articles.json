@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 11,
+      "timestamp": "2025-11-02T18:01:20.892Z",
+      "headline": "Fire and explosion at northwestern Mexico store leave at least 23 dead and 12 injured",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/02/nx-s1-5594848/fire-and-explosion-at-northwestern-mexico-store-leave-at-least-23-dead-and-12-injured",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe NPR article detailing the tragic fire and explosion at a convenience store in northwestern Mexico paints a harrowing picture of loss and suffering. As we mourn t...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 1, 2025, a fire and explosion occurred at a convenience store in Hermosillo, Sonora, Mexico, resulting in the deaths of at least 23 people, including children, and injur...",
+      "detailPage": "/article.html?date=2025-11-02&seq=05"
+    },
+    {
       "id": 2,
       "timestamp": "2025-11-02T16:01:01.377Z",
       "headline": "Dodgers seal back-to-back World Series titles",
@@ -271,6 +281,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-02T16:01:01.377Z",
+  "lastUpdated": "2025-11-02T18:01:20.892Z",
   "version": "1.0"
 }
