@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4,
+      "timestamp": "2025-11-03T18:01:21.322Z",
+      "headline": "Trump says he doubts US will go to war with Venezuela ",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c709rwxzx9yo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades in the struggle for freedom,\n\nThe latest report from our intelligence sources paints a grim picture of the lengths to which the oppressive regime will go to consolidat...",
+      "partigazPreview": "**Facts Summary**\n\nDonald Trump expressed doubt about the US going to war with Venezuela, despite a significant military buildup in the Caribbean Sea. The US has been conducting strikes on alleged dru...",
+      "detailPage": "/article.html?date=2025-11-03&seq=04"
+    },
+    {
       "id": 7,
       "timestamp": "2025-11-03T16:01:43.961Z",
       "headline": "'No idea who he is,' says Trump after pardoning crypto tycoon",
@@ -321,6 +331,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-03T16:01:43.961Z",
+  "lastUpdated": "2025-11-03T18:01:21.323Z",
   "version": "1.0"
 }
