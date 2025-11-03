@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 7,
+      "timestamp": "2025-11-03T16:01:43.961Z",
+      "headline": "'No idea who he is,' says Trump after pardoning crypto tycoon",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn7ek63e5xyo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe latest dispatch from the empire's heartland speaks volumes of its continued decay and moral erosion. A recent report highlights that the emperor himself has pard...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 3, 2025, US President Donald Trump pardoned Changpeng Zhao, a cryptocurrency billionaire and co-founder of Binance, who had pleaded guilty to enabling money laundering....",
+      "detailPage": "/article.html?date=2025-11-03&seq=03"
+    },
+    {
       "id": 5,
       "timestamp": "2025-11-03T14:01:28.411Z",
       "headline": "Three killed in latest US strike on alleged drug boat in Caribbean",
@@ -311,6 +321,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-03T14:01:28.411Z",
+  "lastUpdated": "2025-11-03T16:01:43.961Z",
   "version": "1.0"
 }
