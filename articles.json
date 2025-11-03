@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 5,
+      "timestamp": "2025-11-03T14:01:28.411Z",
+      "headline": "Three killed in latest US strike on alleged drug boat in Caribbean",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn401vzjx48o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow allies, today we must analyze the latest extension of imperial overreach manifesting in the Caribbean under the guise of anti-narcotic operations by the administration i...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 2, 2025, a US strike on an alleged drug-smuggling boat in the Caribbean resulted in the deaths of three men. This action is part of a series of strikes initiated by the...",
+      "detailPage": "/article.html?date=2025-11-03&seq=02"
+    },
+    {
       "id": 7,
       "timestamp": "2025-11-03T12:01:03.222Z",
       "headline": "Trump tariffs head to Supreme Court in case eagerly awaited around the world",
@@ -301,6 +311,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-03T12:01:03.222Z",
+  "lastUpdated": "2025-11-03T14:01:28.411Z",
   "version": "1.0"
 }
