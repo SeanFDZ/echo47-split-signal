@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 7,
+      "timestamp": "2025-11-03T12:01:03.222Z",
+      "headline": "Trump tariffs head to Supreme Court in case eagerly awaited around the world",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn4jyk9jyv3o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nIn the shadow of a colossal edifice, a battle looms not on fields of open combat, but within the hallowed chambers of justice. The Trump administration, wielding tariffs as a w...",
+      "partigazPreview": "**Facts Summary**\n\nThe Trump administration is facing a legal challenge in the US Supreme Court regarding the legality of tariffs imposed under the 1977 International Emergency Economic Powers Act (IE...",
+      "detailPage": "/article.html?date=2025-11-03&seq=01"
+    },
+    {
       "id": 11,
       "timestamp": "2025-11-02T20:00:48.997Z",
       "headline": "How this week's elections in Virginia became about ... everything",
@@ -291,6 +301,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-02T20:00:48.997Z",
+  "lastUpdated": "2025-11-03T12:01:03.222Z",
   "version": "1.0"
 }
