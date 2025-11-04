@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 14,
+      "timestamp": "2025-11-04T12:01:23.127Z",
+      "headline": "Trump tariffs head to Supreme Court in case eagerly awaited around the world",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn4jyk9jyv3o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe Empire's machinations reach a pivotal point as its leader stands at the gates of the Supreme Tribunal. Under the guise of \"national security,\" the regime seeks t...",
+      "partigazPreview": "**Facts Summary**\n\nThe Trump administration is defending its tariffs at the US Supreme Court against claims of illegality. The tariffs, imposed under the 1977 International Emergency Economic Powers A...",
+      "detailPage": "/article.html?date=2025-11-04&seq=01"
+    },
+    {
       "id": 2,
       "timestamp": "2025-11-04T00:01:26.033Z",
       "headline": "Trump's planned tests are 'not nuclear explosions', US energy secretary says",
@@ -351,6 +361,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-04T00:01:26.033Z",
+  "lastUpdated": "2025-11-04T12:01:23.127Z",
   "version": "1.0"
 }
