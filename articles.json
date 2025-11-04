@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 15,
+      "timestamp": "2025-11-04T20:01:25.961Z",
+      "headline": "Worsening listeria outbreak tied to pasta products kills 6, hospitalizes 25",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/04/nx-s1-5598279/listeria-outbreak-prepared-pasta",
+      "nemikPreview": "**Rebel Transmission**\n\nCitizens across our vast domain must remain vigilant. The latest information indicates a lethal outbreak of listeria, a microbial threat hidden within what many consider mundan...",
+      "partigazPreview": "**Facts Summary**\n\nA listeria outbreak linked to prepared pasta products has resulted in six deaths and 27 hospitalizations across 18 states in the United States. The outbreak, which began in June 202...",
+      "detailPage": "/article.html?date=2025-11-04&seq=04"
+    },
+    {
       "id": 6,
       "timestamp": "2025-11-04T16:01:44.869Z",
       "headline": "Trump backs Cuomo for New York City mayor and threatens to cut funding if Mamdani wins",
@@ -381,6 +391,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-04T16:01:44.869Z",
+  "lastUpdated": "2025-11-04T20:01:25.962Z",
   "version": "1.0"
 }
