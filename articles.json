@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 6,
+      "timestamp": "2025-11-04T16:01:44.869Z",
+      "headline": "Trump backs Cuomo for New York City mayor and threatens to cut funding if Mamdani wins",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c231e284345o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades in our struggle against tyranny, I bring urgent news from the heart of a city under siege by authoritarian influence. Today, we witness a vivid demonstration of imperi...",
+      "partigazPreview": "**Facts Summary**\n\nDonald Trump has endorsed Andrew Cuomo for the New York City mayoral race, threatening to reduce federal funding if Zohran Mamdani wins. Trump labeled Mamdani a communist, a claim M...",
+      "detailPage": "/article.html?date=2025-11-04&seq=03"
+    },
+    {
+      "id": 6,
       "timestamp": "2025-11-04T14:01:21.078Z",
       "headline": "Trump administration will tap emergency fund to pay partial food stamp benefits",
       "source": "BBC",
@@ -371,6 +381,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-04T14:01:21.078Z",
+  "lastUpdated": "2025-11-04T16:01:44.869Z",
   "version": "1.0"
 }
