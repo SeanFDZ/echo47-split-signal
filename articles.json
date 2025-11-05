@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 27,
+      "timestamp": "2025-11-05T16:02:12.700Z",
+      "headline": "Yes, Trump's tariffs are raising billions -- but at a steep economic cost",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/05/nx-s1-5596488/tariffs-trump-economy-inflation",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, the regime we oppose has yet again shown its heavy-handedness through economic means. Recent intelligence, disguised as a public broadcast from a system called NPR, r...",
+      "partigazPreview": "**Facts Summary**\n\nPresident Trump's tariffs have significantly increased federal revenue, raising tens of billions of dollars. However, these tariffs have also led to higher consumer costs, business...",
+      "detailPage": "/article.html?date=2025-11-05&seq=03"
+    },
+    {
       "id": 5,
       "timestamp": "2025-11-05T12:01:32.452Z",
       "headline": "Democrat Abigail Spanberger becomes Virginia's first female governor",
@@ -431,6 +441,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-05T12:01:32.453Z",
+  "lastUpdated": "2025-11-05T16:02:12.700Z",
   "version": "1.0"
 }
