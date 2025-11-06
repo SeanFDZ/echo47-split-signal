@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 16,
+      "timestamp": "2025-11-06T12:01:15.539Z",
+      "headline": "Mamdani seals remarkable victory - but real challenges await",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cly4kr8gzr2o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe ascension of Zohran Mamdani to the mayorship in New York City, a bastion once dominated by establishment figures, marks a significant achievement for those who o...",
+      "partigazPreview": "**Facts Summary**\n\nZohran Mamdani was elected as the new mayor of New York City on November 5, 2025, securing 50% of the vote. He defeated former Governor Andrew Cuomo, who received 42%, and Republica...",
+      "detailPage": "/article.html?date=2025-11-06&seq=01"
+    },
+    {
       "id": 27,
       "timestamp": "2025-11-05T16:02:12.700Z",
       "headline": "Yes, Trump's tariffs are raising billions -- but at a steep economic cost",
@@ -441,6 +451,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-05T16:02:12.700Z",
+  "lastUpdated": "2025-11-06T12:01:15.539Z",
   "version": "1.0"
 }
