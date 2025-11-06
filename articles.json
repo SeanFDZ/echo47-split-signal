@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-11-06T22:01:53.576Z",
+      "headline": "Trump unveils deals to lower US weight-loss drug prices",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/czxk7k9nd11o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, the veneer of generosity unveiled by the Trump administration serves as yet another calculated maneuver to consolidate power under the guise of public welfare. The re...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 6, 2025, U.S. President Donald Trump announced agreements with pharmaceutical companies Eli Lilly and Novo Nordisk to lower the cost of popular weight-loss drugs. The de...",
+      "detailPage": "/article.html?date=2025-11-06&seq=04"
+    },
+    {
       "id": 4,
       "timestamp": "2025-11-06T20:01:42.340Z",
       "headline": "US teacher shot by six-year-old student awarded $10m by jury",
@@ -471,6 +481,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-06T20:01:42.341Z",
+  "lastUpdated": "2025-11-06T22:01:53.576Z",
   "version": "1.0"
 }
