@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 12,
+      "timestamp": "2025-11-07T20:01:18.861Z",
+      "headline": "Nancy Pelosi announces retirement after decades in US Congress",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce3xw3dw0zxo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe news of Nancy Pelosi's impending retirement from the congressional arena marks the close of a significant chapter in our ongoing struggle. Having navigated the l...",
+      "partigazPreview": "**Facts Summary**\n\nNancy Pelosi, aged 85, announced her retirement from the U.S. Congress, effective at the end of her term in January 2027. Pelosi, who was first elected in 1987, served as Speaker of...",
+      "detailPage": "/article.html?date=2025-11-07&seq=03"
+    },
+    {
       "id": 2,
       "timestamp": "2025-11-07T12:01:15.076Z",
       "headline": "Multiple people fall ill after package delivered to Air Force One base",
@@ -501,6 +511,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-07T12:01:15.076Z",
+  "lastUpdated": "2025-11-07T20:01:18.861Z",
   "version": "1.0"
 }
