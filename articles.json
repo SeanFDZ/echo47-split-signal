@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 1,
+      "timestamp": "2025-11-07T10:01:12.509Z",
+      "headline": "Elon Musk's $1tn pay deal approved by Tesla shareholders",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwyk6kvyxvzo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nGreetings Fellow Seekers of Justice,\n\nI transmit this message from the fringes, compelled by the recent developments within the corporate titan known as Tesla. The parallels to...",
+      "partigazPreview": "**Facts Summary**\n\nTesla shareholders approved a record-breaking pay package for Elon Musk, potentially worth nearly $1 trillion, with 75% of votes in favor. The deal requires Musk to significantly in...",
+      "detailPage": "/article.html?date=2025-11-07&seq=01"
+    },
+    {
       "id": 3,
       "timestamp": "2025-11-06T22:01:53.576Z",
       "headline": "Trump unveils deals to lower US weight-loss drug prices",
@@ -481,6 +491,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-06T22:01:53.576Z",
+  "lastUpdated": "2025-11-07T10:01:12.509Z",
   "version": "1.0"
 }
