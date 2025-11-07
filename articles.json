@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-11-07T12:01:15.076Z",
+      "headline": "Multiple people fall ill after package delivered to Air Force One base",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce8z2lg43g5o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nObserve carefully the unfolding events reported from the heart of the empire's operations. A recent incident at their primary aviation base, home to the tyrant's per...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 7, 2025, multiple individuals at Joint Base Andrews in Maryland fell ill after opening a suspicious package containing an unidentified white powder. The base, which serv...",
+      "detailPage": "/article.html?date=2025-11-07&seq=02"
+    },
+    {
       "id": 1,
       "timestamp": "2025-11-07T10:01:12.509Z",
       "headline": "Elon Musk's $1tn pay deal approved by Tesla shareholders",
@@ -491,6 +501,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-07T10:01:12.509Z",
+  "lastUpdated": "2025-11-07T12:01:15.076Z",
   "version": "1.0"
 }
