@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 22,
+      "timestamp": "2025-11-08T18:00:49.794Z",
+      "headline": "4 dead, 11 injured after a car chased by police plows into a crowd outside Tampa bar",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/08/nx-s1-5602823/tampa-speeding-car-chase-deaths-bar-ybor-city",
+      "nemikPreview": "**Rebel Transmission**\n\nThe incident detailed in the recent article from what can be likened to an oppressed urban outpost reveals a distressing pattern of control and disregard for life under a regim...",
+      "partigazPreview": "**Facts Summary**\n\nA police pursuit in Tampa's Ybor City neighborhood resulted in a tragic crash, leaving four people dead and 11 injured. The incident began when two cars were observed racing, leadin...",
+      "detailPage": "/article.html?date=2025-11-08&seq=04"
+    },
+    {
       "id": 1,
       "timestamp": "2025-11-08T14:01:19.568Z",
       "headline": "UPS and FedEx ground some cargo planes after Kentucky air disaster",
@@ -551,6 +561,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-08T14:01:19.568Z",
+  "lastUpdated": "2025-11-08T18:00:49.795Z",
   "version": "1.0"
 }
