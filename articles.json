@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-11-08T10:00:50.585Z",
+      "headline": "Trump gives Hungary one-year exemption from Russian energy sanctions",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cp85dvnkpv4o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe latest signal from the dystopian realm echoes the oppressive maneuverings of our adversary. The empire's marionette, guised as leadership, once more shows its ha...",
+      "partigazPreview": "**Facts Summary**\n\nDonald Trump has granted Hungary a one-year exemption from sanctions related to its continued purchase of Russian oil and gas. This decision was confirmed during Hungarian Prime Min...",
+      "detailPage": "/article.html?date=2025-11-08&seq=01"
+    },
+    {
       "id": 4,
       "timestamp": "2025-11-08T00:01:16.773Z",
       "headline": "USDA will fund Snap food benefits, feeding millions of Americans",
@@ -521,6 +531,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-08T00:01:16.775Z",
+  "lastUpdated": "2025-11-08T10:00:50.585Z",
   "version": "1.0"
 }
