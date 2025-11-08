@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4,
+      "timestamp": "2025-11-08T00:01:16.773Z",
+      "headline": "USDA will fund Snap food benefits, feeding millions of Americans",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0rpxqd0141o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nThe message is clear: under the weight of despotism, even essential sustenance becomes a battlefield. Today, while many perceive a victory in ensuring food for 42 million citiz...",
+      "partigazPreview": "**Facts Summary**\n\nThe US Department of Agriculture (USDA) announced it will fund food benefits for over 42 million Americans through the Supplemental Nutrition Assistance Program (Snap) amidst a gove...",
+      "detailPage": "/article.html?date=2025-11-07&seq=04"
+    },
+    {
       "id": 12,
       "timestamp": "2025-11-07T20:01:18.861Z",
       "headline": "Nancy Pelosi announces retirement after decades in US Congress",
@@ -511,6 +521,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-07T20:01:18.861Z",
+  "lastUpdated": "2025-11-08T00:01:16.775Z",
   "version": "1.0"
 }
