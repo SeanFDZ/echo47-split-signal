@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-11-08T20:00:52.094Z",
+      "headline": "Watch: 'Devastating' - Airline travellers react to flight reductions",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/videos/cy8v1924669o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nThe latest report highlights the insidious grip of this administration on the everyday lives of its citizens, reminiscent of a regime that values power over people. The governm...",
+      "partigazPreview": "**Facts Summary**\n\nOn October 20, 2023, more than 2,000 flights in the United States were cancelled or delayed due to traffic cuts during a government shutdown. This affected domestic flights at 40 of...",
+      "detailPage": "/article.html?date=2025-11-08&seq=05"
+    },
+    {
       "id": 22,
       "timestamp": "2025-11-08T18:00:49.794Z",
       "headline": "4 dead, 11 injured after a car chased by police plows into a crowd outside Tampa bar",
@@ -561,6 +571,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-08T18:00:49.795Z",
+  "lastUpdated": "2025-11-08T20:00:52.095Z",
   "version": "1.0"
 }
