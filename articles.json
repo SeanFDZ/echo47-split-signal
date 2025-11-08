@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 1,
+      "timestamp": "2025-11-08T14:01:19.568Z",
+      "headline": "UPS and FedEx ground some cargo planes after Kentucky air disaster",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx2pr5y7p90o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nIn the heart of the sprawling empire that is the Trump administration, where power and profit overshadow the lives of ordinary people, a tragedy unfolds in Kentucky....",
+      "partigazPreview": "**Facts Summary**\n\nOn November 7, 2025, a UPS cargo plane crashed shortly after take-off at Louisville International Airport in Kentucky, resulting in 14 fatalities. The crash caused a significant fir...",
+      "detailPage": "/article.html?date=2025-11-08&seq=03"
+    },
+    {
       "id": 4,
       "timestamp": "2025-11-08T12:00:45.161Z",
       "headline": "DNA pioneer James Watson dies at 97",
@@ -541,6 +551,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-08T12:00:45.162Z",
+  "lastUpdated": "2025-11-08T14:01:19.568Z",
   "version": "1.0"
 }
