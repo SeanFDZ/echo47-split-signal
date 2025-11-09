@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 18,
+      "timestamp": "2025-11-09T18:01:46.333Z",
+      "headline": "Nearly a million people evacuate as Super Typhoon Fung-wong threatens the Philippines",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/09/g-s1-97091/nearly-a-million-people-evacuate-as-super-typhoon-fung-wong-threatens-the-philippines",
+      "nemikPreview": "**Rebel Transmission**\n\nIn the face of imposing natural threats, we are reminded of the relentless power that nature holds, a force that demands mobilization and mutual aid for survival. As nearly a m...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 9, 2025, Super Typhoon Fung-wong threatened the Philippines, prompting the evacuation of nearly a million people. The typhoon, with maximum sustained winds of 185 kph an...",
+      "detailPage": "/article.html?date=2025-11-09&seq=01"
+    },
+    {
       "id": 3,
       "timestamp": "2025-11-08T20:00:52.094Z",
       "headline": "Watch: 'Devastating' - Airline travellers react to flight reductions",
@@ -571,6 +581,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-08T20:00:52.095Z",
+  "lastUpdated": "2025-11-09T18:01:46.333Z",
   "version": "1.0"
 }
