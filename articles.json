@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 10,
+      "timestamp": "2025-11-09T22:01:07.862Z",
+      "headline": "Serbia clears the way for controversial Trump-linked property plan",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1e3q6g5n00o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nTo all who stand against imperial overreach and the corporatization of sovereignty,\n\nRecent transmissions have confirmed the passage of legislation in Serbia authorizing a cont...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 8, 2025, Serbia's parliament passed a law enabling a property development project in Belgrade led by Jared Kushner, son-in-law of Donald Trump. The project involves a 99...",
+      "detailPage": "/article.html?date=2025-11-09&seq=03"
+    },
+    {
       "id": 9,
       "timestamp": "2025-11-09T20:01:14.284Z",
       "headline": "4 dead, 13 injured after street racer slams into crowd at Tampa bar ",
@@ -591,6 +601,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-09T20:01:14.284Z",
+  "lastUpdated": "2025-11-09T22:01:07.863Z",
   "version": "1.0"
 }
