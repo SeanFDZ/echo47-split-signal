@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 3,
+      "timestamp": "2025-11-10T20:01:40.427Z",
+      "headline": "Canada loses its measles-free status, with US on track to follow",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy7e2lv4r8xo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, take heed. The recent loss of measles elimination status by Canada, with the United States on a similar trajectory, echoes the systemic failures ingrained within an e...",
+      "partigazPreview": "**Facts Summary**\n\nCanada has lost its measles elimination status due to an ongoing outbreak that has persisted for over 12 months, with over 5,000 cases reported in 2025. The United States is at risk...",
+      "detailPage": "/article.html?date=2025-11-10&seq=05"
+    },
+    {
+      "id": 3,
       "timestamp": "2025-11-10T18:00:59.484Z",
       "headline": "Watch: Lava soars 1,100ft above Hawaii's Kilauea in latest eruption",
       "source": "BBC",
@@ -651,6 +661,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-10T18:00:59.485Z",
+  "lastUpdated": "2025-11-10T20:01:40.427Z",
   "version": "1.0"
 }
