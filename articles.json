@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-11-10T00:00:56.942Z",
+      "headline": "Two Major League Baseball pitchers charged in sports gambling scheme",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq50pjzg0pyo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nThe article illustrates yet another instance of the pervasive corruption that festers within our institutions, sanctioned by those in power, reminiscent of the Empire's reign....",
+      "partigazPreview": "**Facts Summary**\n\nTwo Major League Baseball pitchers, Emmanuel Clase de la Cruz and Luis Leandro Ortiz Ribera, from the Cleveland Guardians, have been charged with involvement in a sports betting and...",
+      "detailPage": "/article.html?date=2025-11-09&seq=04"
+    },
+    {
       "id": 10,
       "timestamp": "2025-11-09T22:01:07.862Z",
       "headline": "Serbia clears the way for controversial Trump-linked property plan",
@@ -601,6 +611,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-09T22:01:07.863Z",
+  "lastUpdated": "2025-11-10T00:00:56.942Z",
   "version": "1.0"
 }
