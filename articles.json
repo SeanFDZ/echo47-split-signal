@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 14,
+      "timestamp": "2025-11-10T16:01:53.262Z",
+      "headline": "Supreme Court declines to revisit gay marriage decision",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/10/nx-s1-5604293/scotus-rejects-gay-marriage-appeal",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades across the galaxy, I send this signal to remind you of the importance of our struggle against authoritarian forces that seek to subvert freedom and justice. The recent...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 10, 2025, the U.S. Supreme Court declined to hear a case challenging its 2015 decision to legalize gay marriage nationwide. The challenge was brought by Kim Davis, a for...",
+      "detailPage": "/article.html?date=2025-11-10&seq=03"
+    },
+    {
       "id": 5,
       "timestamp": "2025-11-10T14:01:19.371Z",
       "headline": "COP30: Trump and many leaders are skipping it, so does the summit still have a point?",
@@ -631,6 +641,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-10T14:01:19.371Z",
+  "lastUpdated": "2025-11-10T16:01:53.263Z",
   "version": "1.0"
 }
