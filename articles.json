@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 5,
+      "timestamp": "2025-11-10T14:01:19.371Z",
+      "headline": "COP30: Trump and many leaders are skipping it, so does the summit still have a point?",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c205jvyg3wjo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow comrades,\n\nThe echoes of history repeat, as the oppressive force, much akin to our adversaries, extends its reach to suppress the voices unified for the salvation of our...",
+      "partigazPreview": "**Facts Summary**\n\nThe COP30 summit in Brazil witnessed a significant absence of world leaders, including US President Donald Trump, raising questions about the relevance of such climate talks. Trump...",
+      "detailPage": "/article.html?date=2025-11-10&seq=02"
+    },
+    {
       "id": 8,
       "timestamp": "2025-11-10T10:01:30.292Z",
       "headline": "Trump administration tells states to stop paying full food aid benefits",
@@ -621,6 +631,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-10T10:01:30.292Z",
+  "lastUpdated": "2025-11-10T14:01:19.371Z",
   "version": "1.0"
 }
