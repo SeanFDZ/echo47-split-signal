@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 5,
+      "timestamp": "2025-11-11T22:00:51.405Z",
+      "headline": "Watch: Trump and Obama honour US troops for Veterans Day",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/videos/c397yprxm4yo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nIn the shadow of the Empire's oppressive architecture, we are reminded of the duality of appearances versus actions. The transmission reports that leaders across dif...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 11, 2023, Donald Trump and Barack Obama participated in Veterans Day ceremonies to honor U.S. service members. Trump attended the annual ceremony at Arlington National C...",
+      "detailPage": "/article.html?date=2025-11-11&seq=05"
+    },
+    {
       "id": 4,
       "timestamp": "2025-11-11T20:01:18.687Z",
       "headline": "Indiana joins growing US battle over redrawing electoral maps",
@@ -701,6 +711,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-11T20:01:18.687Z",
+  "lastUpdated": "2025-11-11T22:00:51.405Z",
   "version": "1.0"
 }
