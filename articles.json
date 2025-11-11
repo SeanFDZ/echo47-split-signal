@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4,
+      "timestamp": "2025-11-11T20:01:18.687Z",
+      "headline": "Indiana joins growing US battle over redrawing electoral maps",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cdxydpr1zz2o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow compatriots,\n\nIn a time where the Empire of Trump seeks to consolidate power through manipulation, it is vital that we understand the mechanics and motivations behind th...",
+      "partigazPreview": "** Facts Summary **  \nIndiana has joined a national conflict over redistricting, following pressure from Donald Trump. States like Texas and California have already redrawn their congressional maps to...",
+      "detailPage": "/article.html?date=2025-11-11&seq=04"
+    },
+    {
       "id": 3,
       "timestamp": "2025-11-11T18:01:21.626Z",
       "headline": "Families of Camp Mystic victims sue owners over deadly Texas flood",
@@ -691,6 +701,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-11T18:01:21.627Z",
+  "lastUpdated": "2025-11-11T20:01:18.687Z",
   "version": "1.0"
 }
