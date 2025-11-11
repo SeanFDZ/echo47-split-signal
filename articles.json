@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 3,
+      "timestamp": "2025-11-11T18:01:21.626Z",
+      "headline": "Families of Camp Mystic victims sue owners over deadly Texas flood",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cdegj3g6gg3o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe recent tragedy at Camp Mystic is yet another stark reminder of how those in power repeatedly prioritize profit over human lives. In the shadows of the Texas floo...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 11, 2025, families of victims who died in floods at Camp Mystic in Texas filed a lawsuit against the camp's owners for gross negligence. The lawsuit claims that the camp...",
+      "detailPage": "/article.html?date=2025-11-11&seq=03"
+    },
+    {
+      "id": 3,
       "timestamp": "2025-11-11T14:01:39.997Z",
       "headline": "Trump threatens BBC with legal action over Panorama speech edit",
       "source": "BBC",
@@ -681,6 +691,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-11T14:01:39.997Z",
+  "lastUpdated": "2025-11-11T18:01:21.627Z",
   "version": "1.0"
 }
