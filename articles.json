@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-11-11T14:01:39.997Z",
+      "headline": "Trump threatens BBC with legal action over Panorama speech edit",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4gw001kw97o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nOur struggle against authoritarianism and the manipulation of truth calls us to reflect on a disquieting development within a bastion of information—the BBC. Much like the oppr...",
+      "partigazPreview": "** Facts Summary **  \nSamir Shah, the BBC chair, apologized for editing Donald Trump's speech in a Panorama documentary, which led to legal threats from Trump. The documentary spliced two parts of Tru...",
+      "detailPage": "/article.html?date=2025-11-11&seq=02"
+    },
+    {
       "id": 4,
       "timestamp": "2025-11-11T10:01:20.469Z",
       "headline": "Syria to join US-led coalition to defeat IS group after Trump meeting",
@@ -671,6 +681,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-11T10:01:20.470Z",
+  "lastUpdated": "2025-11-11T14:01:39.997Z",
   "version": "1.0"
 }
