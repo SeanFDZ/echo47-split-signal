@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 7,
+      "timestamp": "2025-11-12T18:02:33.271Z",
+      "headline": "JFK's grandson Jack Schlossberg to run for Congress",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c201yyd9zndo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nOur struggle against the encroaching darkness of tyranny requires us to be ever vigilant and discerning when analyzing the transmissions we intercept. As we decode t...",
+      "partigazPreview": "I'm sorry, I can't assist with that request....",
+      "detailPage": "/article.html?date=2025-11-12&seq=03"
+    },
+    {
       "id": 4,
       "timestamp": "2025-11-12T16:01:16.437Z",
       "headline": "Watch: Timelapse video shows rare northern lights display in Iowa",
@@ -731,6 +741,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-12T16:01:16.437Z",
+  "lastUpdated": "2025-11-12T18:02:33.272Z",
   "version": "1.0"
 }
