@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-11-12T22:01:55.811Z",
+      "headline": "US ends penny-making run after more than 230 years",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq8392vx8plo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nTo all those who resist the creeping control of statist powers, hear this message.\n\nThe recent decision by the rulers of our land to cease production of the penny after 230 yea...",
+      "partigazPreview": "**Facts Summary**\n\nThe US government, under President Donald Trump, has decided to end the production of the penny after more than 230 years. The final batch will be produced at the Philadelphia Mint...",
+      "detailPage": "/article.html?date=2025-11-12&seq=05"
+    },
+    {
       "id": 1,
       "timestamp": "2025-11-12T20:01:48.653Z",
       "headline": "Fifty-year mortgages and $2,000 cheques: What's behind Trump's affordability drive?",
@@ -751,6 +761,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-12T20:01:48.653Z",
+  "lastUpdated": "2025-11-12T22:01:55.811Z",
   "version": "1.0"
 }
