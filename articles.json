@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 5,
+      "timestamp": "2025-11-12T12:00:59.390Z",
+      "headline": "US aircraft carrier group arrives in Caribbean",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4gkypezze8o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nI must inform you that our recent attempt to intercept and analyze a critical report has been thwarted by a technical failure. The transmission was abruptly severed,...",
+      "partigazPreview": "** Facts Summary **  \nThere was a connection termination error described as an \"upstream connect error or disconnect/reset before headers.\" The reset reason is identified as connection termination.\n\n*...",
+      "detailPage": "/article.html?date=2025-11-12&seq=01"
+    },
+    {
+      "id": 5,
       "timestamp": "2025-11-11T22:00:51.405Z",
       "headline": "Watch: Trump and Obama honour US troops for Veterans Day",
       "source": "BBC",
@@ -711,6 +721,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-11T22:00:51.405Z",
+  "lastUpdated": "2025-11-12T12:00:59.390Z",
   "version": "1.0"
 }
