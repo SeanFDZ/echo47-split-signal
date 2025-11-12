@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4,
+      "timestamp": "2025-11-12T16:01:16.437Z",
+      "headline": "Watch: Timelapse video shows rare northern lights display in Iowa",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/videos/c4gpjddllgno?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nObserve the celestial phenomenon of the northern lights over Iowa, a rare display captured thanks to nature's unintended collaboration with a geomagnetic storm. Whil...",
+      "partigazPreview": "**Facts Summary**\n\nOn October 10, 2023, a severe geomagnetic storm, rated at G4 on the geomagnetic storm scale, made the northern lights visible in Iowa and potentially as far south as Alabama and Nor...",
+      "detailPage": "/article.html?date=2025-11-12&seq=02"
+    },
+    {
       "id": 5,
       "timestamp": "2025-11-12T12:00:59.390Z",
       "headline": "US aircraft carrier group arrives in Caribbean",
@@ -721,6 +731,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-12T12:00:59.390Z",
+  "lastUpdated": "2025-11-12T16:01:16.437Z",
   "version": "1.0"
 }
