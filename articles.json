@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 8,
+      "timestamp": "2025-11-13T22:01:25.084Z",
+      "headline": "Starbucks union workers go on strike over pay and staffing",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwy7r48g0zlo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow Comrades,\n\nToday, we witness a testament of courage and defiance in the face of oppressive authoritarian structures. The Starbucks union workers, akin to our own struggl...",
+      "partigazPreview": "**Facts Summary**\n\nStarbucks workers at 65 unionized stores in the United States have gone on strike over pay and staffing issues after negotiations stalled. The strike, organized by Starbucks Workers...",
+      "detailPage": "/article.html?date=2025-11-13&seq=05"
+    },
+    {
       "id": 12,
       "timestamp": "2025-11-13T20:01:27.513Z",
       "headline": "Trump vs the BBC: What hurdles might the president's legal argument face?",
@@ -811,6 +821,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-13T20:01:27.514Z",
+  "lastUpdated": "2025-11-13T22:01:25.084Z",
   "version": "1.0"
 }
