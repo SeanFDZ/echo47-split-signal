@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4,
+      "timestamp": "2025-11-13T00:01:37.823Z",
+      "headline": "'$230 for a cut-up sock' - Apple's new iPhone Pocket ridiculed online",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn97ndgpnq7o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe tale shared today is one of consumer exploitation and the manipulation of loyalty by corporations that mirror the oppressive mechanisms we fight against. Apple's...",
+      "partigazPreview": "**Facts Summary**\n\nApple announced a new product, the iPhone Pocket, a carrying case for its iPhone range, priced at £219.95 (approximately $230 USD). The product has been widely mocked online for its...",
+      "detailPage": "/article.html?date=2025-11-12&seq=06"
+    },
+    {
       "id": 2,
       "timestamp": "2025-11-12T22:01:55.811Z",
       "headline": "US ends penny-making run after more than 230 years",
@@ -761,6 +771,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-12T22:01:55.811Z",
+  "lastUpdated": "2025-11-13T00:01:37.823Z",
   "version": "1.0"
 }
