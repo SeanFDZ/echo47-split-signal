@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 2,
+      "timestamp": "2025-11-13T12:01:15.690Z",
+      "headline": "Democrats left bruised after historic shutdown yields little",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cz917nvj7qeo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe latest events in the vast political arena of our world echo the struggles we face against an oppressive regime. The recent historic shutdown in the heart of powe...",
+      "partigazPreview": "**Facts Summary**\n\nThe longest U.S. government shutdown in history, lasting 43 days, has ended. Senate Democrats initiated the shutdown by refusing to support a Republican funding measure, demanding t...",
+      "detailPage": "/article.html?date=2025-11-13&seq=02"
+    },
+    {
+      "id": 2,
       "timestamp": "2025-11-13T10:00:55.913Z",
       "headline": "What we know about new Epstein emails that mention Trump",
       "source": "BBC",
@@ -781,6 +791,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-13T10:00:55.913Z",
+  "lastUpdated": "2025-11-13T12:01:15.690Z",
   "version": "1.0"
 }
