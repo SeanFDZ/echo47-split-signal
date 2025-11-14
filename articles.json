@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 6,
+      "timestamp": "2025-11-14T14:01:26.412Z",
+      "headline": "Swiss hope to slash crippling Trump tariffs after golden charm offensive",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce8zkrplpdyo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nWhat we observe from this dispatch is yet another illustration of the Empire's manipulation and its relentless pursuit of power and control through economic bondage....",
+      "partigazPreview": "**Facts Summary**\n\nSwiss ministers, including economics minister Guy Parmelin, conducted talks in Washington to address the 39% tariffs imposed by President Donald Trump on Swiss exports to the US. Th...",
+      "detailPage": "/article.html?date=2025-11-14&seq=02"
+    },
+    {
       "id": 7,
       "timestamp": "2025-11-14T10:01:25.708Z",
       "headline": "Ohtani wins fourth Major League MVP award",
@@ -841,6 +851,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-14T10:01:25.708Z",
+  "lastUpdated": "2025-11-14T14:01:26.412Z",
   "version": "1.0"
 }
