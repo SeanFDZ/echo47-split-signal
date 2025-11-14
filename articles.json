@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-11-14T18:01:00.191Z",
+      "headline": "Walmart boss retiring after more than a decade",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq83jqkpkn2o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nAs we continue to observe the sprawling entity that ensnares our society within the web of consumption, we note a significant development within the behemoth known a...",
+      "partigazPreview": "**Facts Summary**\n\nDoug McMillon, the chief executive of Walmart, is set to retire in January after over a decade in the role. He will be succeeded by John Furner, who currently leads Walmart's US bus...",
+      "detailPage": "/article.html?date=2025-11-14&seq=04"
+    },
+    {
       "id": 17,
       "timestamp": "2025-11-14T16:01:38.365Z",
       "headline": "Is the US government shutdown over, and why did it happen?",
@@ -861,6 +871,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-14T16:01:38.365Z",
+  "lastUpdated": "2025-11-14T18:01:00.191Z",
   "version": "1.0"
 }
