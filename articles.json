@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 17,
+      "timestamp": "2025-11-14T16:01:38.365Z",
+      "headline": "Is the US government shutdown over, and why did it happen?",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/crrj1znp0pyo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe recent government shutdown in the state-controlled territory of America has finally concluded after 43 days, marking it as the longest in history. This halt in o...",
+      "partigazPreview": "**Facts Summary**\n\nThe longest-ever US government shutdown ended after 43 days on September 29, 2025. The shutdown affected approximately 1.4 million federal employees who were unpaid, disrupted food...",
+      "detailPage": "/article.html?date=2025-11-14&seq=03"
+    },
+    {
       "id": 6,
       "timestamp": "2025-11-14T14:01:26.412Z",
       "headline": "Swiss hope to slash crippling Trump tariffs after golden charm offensive",
@@ -851,6 +861,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-14T14:01:26.412Z",
+  "lastUpdated": "2025-11-14T16:01:38.365Z",
   "version": "1.0"
 }
