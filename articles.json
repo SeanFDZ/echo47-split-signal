@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 7,
+      "timestamp": "2025-11-14T10:01:25.708Z",
+      "headline": "Ohtani wins fourth Major League MVP award",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/baseball/articles/c5y9ry4nxzxo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow dissidents, let us reflect on the article of Shohei Ohtani's fourth MVP award as a microcosm of our larger struggle against the oppressive grip of the empire—here manife...",
+      "partigazPreview": "**Facts Summary**\n\nShohei Ohtani, a player for the Los Angeles Dodgers, has been awarded the Most Valuable Player (MVP) title in Major League Baseball for the fourth time overall and the third consecu...",
+      "detailPage": "/article.html?date=2025-11-14&seq=01"
+    },
+    {
+      "id": 7,
       "timestamp": "2025-11-14T00:00:49.689Z",
       "headline": "US justice department sues California over new voting maps favouring Democrats",
       "source": "BBC",
@@ -831,6 +841,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-14T00:00:49.689Z",
+  "lastUpdated": "2025-11-14T10:01:25.708Z",
   "version": "1.0"
 }
