@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 1,
+      "timestamp": "2025-11-15T22:01:09.287Z",
+      "headline": "Trump rolls back tariffs on dozens of food products",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cdjr4xw83eko?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow compatriots,\n\nThe latest maneuver by the administration, akin to the imperial overlords we oppose, is an attempt to placate the masses with a rollback of tariffs on esse...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 14, 2025, US President Donald Trump signed an executive order rolling back tariffs on various food products, including coffee, bananas, and beef. This decision comes ami...",
+      "detailPage": "/article.html?date=2025-11-15&seq=03"
+    },
+    {
       "id": 6,
       "timestamp": "2025-11-15T20:00:53.085Z",
       "headline": "Vatican returns dozens of indigenous artefacts to Canada ",
@@ -901,6 +911,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-15T20:00:53.086Z",
+  "lastUpdated": "2025-11-15T22:01:09.287Z",
   "version": "1.0"
 }
