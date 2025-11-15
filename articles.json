@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 28,
+      "timestamp": "2025-11-15T14:01:17.752Z",
+      "headline": "Trump cuts ties with Marjorie Taylor Greene, once among his top MAGA-world defenders",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/15/g-s1-97954/trump-marjorie-taylor-greene",
+      "nemikPreview": "**Rebel Transmission**\n\nIn the deep shadows of power, where authoritarian influence seeks to stifle dissent and mold the future to its will, the recent fracture within the Trump equivalent of the empi...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 15, 2025, Donald Trump publicly severed ties with Marjorie Taylor Greene, a prominent supporter from Georgia, criticizing her for shifting her political stance. Trump la...",
+      "detailPage": "/article.html?date=2025-11-15&seq=01"
+    },
+    {
       "id": 3,
       "timestamp": "2025-11-15T00:01:12.020Z",
       "headline": "Bankruptcy judge clears $7.4bn Purdue Pharma opioid settlement",
@@ -881,6 +891,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-15T00:01:12.020Z",
+  "lastUpdated": "2025-11-15T14:01:17.752Z",
   "version": "1.0"
 }
