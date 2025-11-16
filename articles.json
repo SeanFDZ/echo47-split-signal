@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4,
+      "timestamp": "2025-11-16T22:01:05.198Z",
+      "headline": "New York Jets player in critical condition after Manhattan shooting",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4gw1zd5w73o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow Seekers of Freedom,\n\nIn the midst of our struggle against oppression, another grim tableau unfolds within the heart of the empire's domain. An NFL player, Kris Boyd of t...",
+      "partigazPreview": "**Facts Summary**\n\nKris Boyd, a 29-year-old cornerback for the New York Jets, was shot in the abdomen outside a high-end restaurant called Sei Less in midtown Manhattan. The incident occurred at appro...",
+      "detailPage": "/article.html?date=2025-11-16&seq=05"
+    },
+    {
       "id": 1,
       "timestamp": "2025-11-16T18:01:30.000Z",
       "headline": "Federal agents launch immigration crackdown in city of Charlotte",
@@ -951,6 +961,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-16T18:01:30.000Z",
+  "lastUpdated": "2025-11-16T22:01:05.199Z",
   "version": "1.0"
 }
