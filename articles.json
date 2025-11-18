@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 1,
+      "timestamp": "2025-11-18T20:01:08.637Z",
+      "headline": "US court blocks Texas from using newly redrawn voting maps",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce3x9kkwp31o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, the recent ruling by the judiciary blocking Texas from implementing its newly gerrymandered voting districts is a significant victory in our ongoing battle against th...",
+      "partigazPreview": "**Facts Summary**\n\nA US federal court has blocked Texas from using its newly redrawn voting maps for the 2026 midterm elections, citing evidence of racial gerrymandering. The Texas state legislature,...",
+      "detailPage": "/article.html?date=2025-11-18&seq=05"
+    },
+    {
       "id": 3,
       "timestamp": "2025-11-18T16:02:11.753Z",
       "headline": "US to sell F-35 jets to Saudi Arabia, Trump says ahead of crown prince's visit",
@@ -1041,6 +1051,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-18T16:02:11.753Z",
+  "lastUpdated": "2025-11-18T20:01:08.638Z",
   "version": "1.0"
 }
