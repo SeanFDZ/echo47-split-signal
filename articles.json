@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 12,
+      "timestamp": "2025-11-18T14:01:28.686Z",
+      "headline": "New international student enrolment drops 17% at US universities",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy8v336lyz4o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe recent report from the BBC reveals a staggering decline of 17% in international student enrolments at institutions within our adversary's territory. This data ma...",
+      "partigazPreview": "**Facts Summary**\n\nThe rate of new international student enrolment at US universities has dropped by 17% this autumn compared to previous years. This decline is attributed to the Trump administration'...",
+      "detailPage": "/article.html?date=2025-11-18&seq=03"
+    },
+    {
       "id": 2,
       "timestamp": "2025-11-18T12:00:41.227Z",
       "headline": "Canada narrowly approves Carney's first federal budget",
@@ -1021,6 +1031,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-18T12:00:41.227Z",
+  "lastUpdated": "2025-11-18T14:01:28.686Z",
   "version": "1.0"
 }
