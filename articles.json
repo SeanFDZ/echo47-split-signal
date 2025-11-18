@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-11-18T00:01:12.856Z",
+      "headline": "Tom Cruise on his first Oscar: Making films 'is who I am'",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq83l2l132lo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades in the struggle,\n\nThe latest holonet broadcast brings news of yet another spectacle. The receiving of an honorary accolade by a prominent figure in the entertainment s...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 16, 2025, in Los Angeles, Tom Cruise, aged 63, received his first-ever Oscar statuette at the Governors Awards. The award was presented by filmmaker Alejandro G Iñárritu...",
+      "detailPage": "/article.html?date=2025-11-17&seq=04"
+    },
+    {
       "id": 5,
       "timestamp": "2025-11-17T22:01:26.320Z",
       "headline": "New international student enrolment drops 17% at US universities",
@@ -991,6 +1001,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-17T22:01:26.320Z",
+  "lastUpdated": "2025-11-18T00:01:12.856Z",
   "version": "1.0"
 }
