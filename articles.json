@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-11-18T16:02:11.753Z",
+      "headline": "US to sell F-35 jets to Saudi Arabia, Trump says ahead of crown prince's visit",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c7512rkvg7ro?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThis transmission brings troubling news from the heart of the Empire's relentless machine: the Trump administration has announced its intention to sell F-35 fighter...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 18, 2025, President Donald Trump announced that the United States will sell F-35 fighter jets to Saudi Arabia. This announcement was made ahead of a meeting with Saudi C...",
+      "detailPage": "/article.html?date=2025-11-18&seq=04"
+    },
+    {
       "id": 12,
       "timestamp": "2025-11-18T14:01:28.686Z",
       "headline": "New international student enrolment drops 17% at US universities",
@@ -1031,6 +1041,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-18T14:01:28.686Z",
+  "lastUpdated": "2025-11-18T16:02:11.753Z",
   "version": "1.0"
 }
