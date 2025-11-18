@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-11-18T12:00:41.227Z",
+      "headline": "Canada narrowly approves Carney's first federal budget",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cp8531xvy26o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nThe article recounts a common, yet telling parable of dysfunction within the oppressive regime we endure. It describes a scene of a critical system failure—an \"internal server...",
+      "partigazPreview": "** Facts Summary **  \nOn November 18, 2025, at 12:00:21 UTC, an internal server error occurred on Cloudflare's network in Oklahoma City. The error was identified as a 500 error code, indicating a serv...",
+      "detailPage": "/article.html?date=2025-11-18&seq=02"
+    },
+    {
       "id": 3,
       "timestamp": "2025-11-18T10:01:32.504Z",
       "headline": "US will give visa appointment priority to World Cup ticket holders ",
@@ -1011,6 +1021,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-18T10:01:32.504Z",
+  "lastUpdated": "2025-11-18T12:00:41.227Z",
   "version": "1.0"
 }
