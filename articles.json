@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 3,
+      "timestamp": "2025-11-18T10:01:32.504Z",
+      "headline": "US will give visa appointment priority to World Cup ticket holders ",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c993evxk24jo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nThe recent developments from the core of the administration echo the stratagems we've long critiqued: prioritizing certain elements while maintaining the guise of opportunity a...",
+      "partigazPreview": "**Facts Summary**\n\nPresident Donald Trump announced that US embassies will prioritize visa appointments for travelers with tickets to the 2026 World Cup, which will be co-hosted by the US, Canada, and...",
+      "detailPage": "/article.html?date=2025-11-18&seq=01"
+    },
+    {
+      "id": 3,
       "timestamp": "2025-11-18T00:01:12.856Z",
       "headline": "Tom Cruise on his first Oscar: Making films 'is who I am'",
       "source": "BBC",
@@ -1001,6 +1011,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-18T00:01:12.856Z",
+  "lastUpdated": "2025-11-18T10:01:32.504Z",
   "version": "1.0"
 }
