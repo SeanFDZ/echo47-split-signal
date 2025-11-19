@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-11-19T12:01:20.013Z",
+      "headline": "Epstein saga reveals Republican rifts - and the power of Trump's base",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cz7p4gez742o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe unfolding drama within the Empire, as detailed in the article concerning the Epstein files and the Republican faction led by their supreme leader, reveals signif...",
+      "partigazPreview": "**Facts Summary**\n\nThe US Senate unanimously passed a bill to release files related to Jeffrey Epstein, following a 427-1 vote in the House. President Donald Trump, initially dismissive of the release...",
+      "detailPage": "/article.html?date=2025-11-19&seq=02"
+    },
+    {
       "id": 17,
       "timestamp": "2025-11-19T10:01:25.307Z",
       "headline": "Israeli airstrike on a Palestinian refugee camp in Lebanon kills 13 people",
@@ -1071,6 +1081,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-19T10:01:25.307Z",
+  "lastUpdated": "2025-11-19T12:01:20.013Z",
   "version": "1.0"
 }
