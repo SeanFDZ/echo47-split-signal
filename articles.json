@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 8,
+      "timestamp": "2025-11-19T00:01:02.853Z",
+      "headline": "Federal agents arrest 130 people in Charlotte immigration crackdown",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c9q1z80n8qdo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe latest broadcast from the heart of the imperial agenda under Trump reveals a dark and aggressive operation, reminiscent of totalitarian enforcement tactics. Fede...",
+      "partigazPreview": "**Facts Summary**\n\nFederal agents arrested 130 individuals in Charlotte, North Carolina, as part of an immigration crackdown led by President Donald Trump's administration. The operation, named \"Opera...",
+      "detailPage": "/article.html?date=2025-11-18&seq=06"
+    },
+    {
       "id": 1,
       "timestamp": "2025-11-18T20:01:08.637Z",
       "headline": "US court blocks Texas from using newly redrawn voting maps",
@@ -1051,6 +1061,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-18T20:01:08.638Z",
+  "lastUpdated": "2025-11-19T00:01:02.853Z",
   "version": "1.0"
 }
