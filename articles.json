@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 9,
+      "timestamp": "2025-11-19T14:01:29.934Z",
+      "headline": "Judge rules Meta doesn't have monopoly after Instagram, WhatsApp acquisitions",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/crklgrpdke8o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades in the struggle for freedom, I address you today on the matter of a recent judgment in the heartland of our oppressors that reveals both the cunning and the frailty of...",
+      "partigazPreview": "**Facts Summary**\n\nA US district judge in Washington ruled that Meta Platforms did not violate antitrust laws with its acquisitions of Instagram and WhatsApp. The Federal Trade Commission (FTC) had su...",
+      "detailPage": "/article.html?date=2025-11-19&seq=03"
+    },
+    {
       "id": 2,
       "timestamp": "2025-11-19T12:01:20.013Z",
       "headline": "Epstein saga reveals Republican rifts - and the power of Trump's base",
@@ -1081,6 +1091,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-19T12:01:20.013Z",
+  "lastUpdated": "2025-11-19T14:01:29.934Z",
   "version": "1.0"
 }
