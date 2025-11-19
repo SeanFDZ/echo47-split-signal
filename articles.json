@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 7,
+      "timestamp": "2025-11-19T16:02:05.571Z",
+      "headline": "US court blocks Texas from using newly redrawn voting maps",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce3x9kkwp31o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nAs we examine the mechanisms of control perpetuated by those clutching onto power, recent developments in the United States offer a timely case study. The ongoing saga of Texas...",
+      "partigazPreview": "**Facts Summary**\n\nA US federal court has blocked Texas from using newly redrawn voting maps created by Republicans, citing racial gerrymandering. The court ordered Texas to revert to the maps drawn i...",
+      "detailPage": "/article.html?date=2025-11-19&seq=04"
+    },
+    {
       "id": 9,
       "timestamp": "2025-11-19T14:01:29.934Z",
       "headline": "Judge rules Meta doesn't have monopoly after Instagram, WhatsApp acquisitions",
@@ -1091,6 +1101,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-19T14:01:29.934Z",
+  "lastUpdated": "2025-11-19T16:02:05.571Z",
   "version": "1.0"
 }
