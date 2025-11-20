@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 2,
+      "timestamp": "2025-11-20T10:01:26.927Z",
+      "headline": "US military officials in Ukraine amid reports of draft Russia peace plan",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow freedom seekers,\n\nIn the shadows of a world where oppression attempts to mask itself as diplomacy, we must remain vigilant and ever-aware of the machinations of those in...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 19, 2025, senior Pentagon officials, led by US Army Secretary Dan Driscoll, arrived in Ukraine to discuss efforts to end the war with Russia. The visit coincides with re...",
+      "detailPage": "/article.html?date=2025-11-20&seq=01"
+    },
+    {
+      "id": 2,
       "timestamp": "2025-11-20T00:01:15.266Z",
       "headline": "Nvidia shares jump after revenue and outlook top estimates",
       "source": "BBC",
@@ -1111,6 +1121,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-20T00:01:15.266Z",
+  "lastUpdated": "2025-11-20T10:01:26.927Z",
   "version": "1.0"
 }
