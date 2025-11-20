@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-11-20T16:01:26.797Z",
+      "headline": "US military officials in Kyiv as Europe warns against reported Russia peace plan",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, \n\nThe intentions of the oppressive administration in control are becoming ever clearer. Their recent maneuvers in the beleaguered territory of Ukraine reveal a strate...",
+      "partigazPreview": "** Facts Summary **  \nSenior Pentagon officials, led by US Army Secretary Dan Driscoll, have arrived in Kyiv to discuss efforts to end the war with Russia. Reports suggest a new proposed peace framewo...",
+      "detailPage": "/article.html?date=2025-11-20&seq=03"
+    },
+    {
       "id": 11,
       "timestamp": "2025-11-20T14:01:41.653Z",
       "headline": "US court blocks Texas from using newly redrawn voting maps",
@@ -1131,6 +1141,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-20T14:01:41.653Z",
+  "lastUpdated": "2025-11-20T16:01:26.797Z",
   "version": "1.0"
 }
