@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-11-20T18:01:38.682Z",
+      "headline": "Trump to meet incoming New York Mayor Zohran Mamdani",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvgmgddyjl0o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nOur struggle against the suffocating grip of tyranny takes a new turn with the unfolding events in New York. The news of the impending meeting between the incoming m...",
+      "partigazPreview": "**Facts Summary**\n\nDonald Trump is scheduled to meet with Zohran Mamdani, the incoming mayor of New York City, at the White House on November 20, 2025. Mamdani, a 34-year-old Democratic socialist, rec...",
+      "detailPage": "/article.html?date=2025-11-20&seq=04"
+    },
+    {
       "id": 2,
       "timestamp": "2025-11-20T16:01:26.797Z",
       "headline": "US military officials in Kyiv as Europe warns against reported Russia peace plan",
@@ -1141,6 +1151,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-20T16:01:26.797Z",
+  "lastUpdated": "2025-11-20T18:01:38.682Z",
   "version": "1.0"
 }
