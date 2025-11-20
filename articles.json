@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-11-20T00:01:15.266Z",
+      "headline": "Nvidia shares jump after revenue and outlook top estimates",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cly4y2enywro?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, \n\nThe echoes of corporate influence within the Empire's vast machinery resonate ever louder, as evidenced by the recent revelations surrounding Nvidia. This entity, a...",
+      "partigazPreview": "**Facts Summary**\n\nNvidia reported a 62% increase in revenue to $57 billion for the three months leading up to October, surpassing Wall Street expectations. The company's AI division saw a 66% increas...",
+      "detailPage": "/article.html?date=2025-11-19&seq=05"
+    },
+    {
       "id": 7,
       "timestamp": "2025-11-19T16:02:05.571Z",
       "headline": "US court blocks Texas from using newly redrawn voting maps",
@@ -1101,6 +1111,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-19T16:02:05.571Z",
+  "lastUpdated": "2025-11-20T00:01:15.266Z",
   "version": "1.0"
 }
