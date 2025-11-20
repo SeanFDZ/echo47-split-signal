@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 6,
+      "timestamp": "2025-11-20T22:01:20.055Z",
+      "headline": "US congresswoman charged with stealing $5m in federal disaster funds",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cg4340wrqk1o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe recent news of a Florida congresswoman accused of embezzling $5 million in disaster funds is yet another reflection of the decadence and corruption thriving with...",
+      "partigazPreview": "**Facts Summary**\n\nSheila Cherfilus-McCormick, a Florida congresswoman, has been charged with stealing $5 million in federal disaster funds. The funds were allegedly laundered into her 2021 election c...",
+      "detailPage": "/article.html?date=2025-11-20&seq=06"
+    },
+    {
+      "id": 6,
       "timestamp": "2025-11-20T20:01:31.184Z",
       "headline": "US congresswoman charged with stealing $5m in federal disaster funds",
       "source": "BBC",
@@ -1161,6 +1171,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-20T20:01:31.184Z",
+  "lastUpdated": "2025-11-20T22:01:20.055Z",
   "version": "1.0"
 }
