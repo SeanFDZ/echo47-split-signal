@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-11-21T00:01:27.459Z",
+      "headline": "Bush lauds Dick Cheney as a 'thinker and listener' at funeral",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c93x3er4l9zo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nAs we observe the recent gathering for Dick Cheney's funeral, parallels between past and present empires become apparent. The narrative woven by current and former leaders seek...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 20, 2025, a funeral was held in Washington DC for former US Vice-President Dick Cheney, who passed away at the age of 84 due to complications from pneumonia and cardiac...",
+      "detailPage": "/article.html?date=2025-11-20&seq=07"
+    },
+    {
       "id": 6,
       "timestamp": "2025-11-20T22:01:20.055Z",
       "headline": "US congresswoman charged with stealing $5m in federal disaster funds",
@@ -1171,6 +1181,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-20T22:01:20.055Z",
+  "lastUpdated": "2025-11-21T00:01:27.460Z",
   "version": "1.0"
 }
