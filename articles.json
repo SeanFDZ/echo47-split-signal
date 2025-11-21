@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 12,
+      "timestamp": "2025-11-21T20:01:32.181Z",
+      "headline": "Fugees rapper Pras Michel sentenced to 14 years in prison for illegal lobbying",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cg7n7l70vzgo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nIn our ongoing battle against the oppressive regime that seeks to tighten its grip on every aspect of our existence, we must remain vigilant of the tactics they empl...",
+      "partigazPreview": "** Facts Summary **  \nPrakazrel 'Pras' Michel, a former Fugees musician, was sentenced to 14 years in prison for illegal foreign lobbying and corruption. He received over $100 million from Malaysian b...",
+      "detailPage": "/article.html?date=2025-11-21&seq=05"
+    },
+    {
       "id": 1,
       "timestamp": "2025-11-21T18:01:45.802Z",
       "headline": "What we know about leaked US draft plan to end Russia's Ukraine war",
@@ -1221,6 +1231,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-21T18:01:45.802Z",
+  "lastUpdated": "2025-11-21T20:01:32.181Z",
   "version": "1.0"
 }
