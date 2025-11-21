@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 1,
+      "timestamp": "2025-11-21T18:01:45.802Z",
+      "headline": "What we know about leaked US draft plan to end Russia's Ukraine war",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cde6yld78d6o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe recently leaked draft plan for ending the conflict between Ukraine and Russia reveals a concerning convergence between the US administration's aims and those of...",
+      "partigazPreview": "**Facts Summary**\n\nA leaked US draft peace plan proposes transferring parts of Ukraine's Donbas region to Russian control and limiting Ukraine's armed forces to 600,000 personnel. The plan includes a...",
+      "detailPage": "/article.html?date=2025-11-21&seq=04"
+    },
+    {
+      "id": 1,
       "timestamp": "2025-11-21T16:01:10.656Z",
       "headline": "Grizzly bear on loose after attacking school group in Canada, injuring 11",
       "source": "BBC",
@@ -1211,6 +1221,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-21T16:01:10.656Z",
+  "lastUpdated": "2025-11-21T18:01:45.802Z",
   "version": "1.0"
 }
