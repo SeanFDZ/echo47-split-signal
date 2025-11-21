@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 8,
+      "timestamp": "2025-11-21T10:01:35.247Z",
+      "headline": "More than 250 arrested in Charlotte as immigration crackdown escalates",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckgzge16vkdo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow seekers of freedom, a new report from Charlotte, hidden in the guise of neutrality, unveils the sinister escalation by forces akin to the Empire's oppressive might. With...",
+      "partigazPreview": "**Facts Summary**\n\nMore than 250 people have been arrested in Charlotte, North Carolina, as part of President Donald Trump's immigration crackdown, dubbed \"Operation Charlotte's Web.\" The operation, e...",
+      "detailPage": "/article.html?date=2025-11-21&seq=01"
+    },
+    {
       "id": 3,
       "timestamp": "2025-11-21T00:01:27.459Z",
       "headline": "Bush lauds Dick Cheney as a 'thinker and listener' at funeral",
@@ -1181,6 +1191,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-21T00:01:27.460Z",
+  "lastUpdated": "2025-11-21T10:01:35.247Z",
   "version": "1.0"
 }
