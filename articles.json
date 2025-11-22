@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 25,
+      "timestamp": "2025-11-22T22:00:50.796Z",
+      "headline": "Trump says he's terminating legal protections for Somali migrants in Minnesota",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/22/g-s1-98867/trump-terminating-protections-somali-minnesota",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe recent move by the regime to terminate legal protections for Somali migrants in Minnesota mirrors the oppressive tactics we have witnessed throughout history. Th...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 22, 2025, President Donald Trump announced the immediate termination of temporary legal protections for Somali migrants residing in Minnesota. This decision affects appr...",
+      "detailPage": "/article.html?date=2025-11-22&seq=03"
+    },
+    {
       "id": 20,
       "timestamp": "2025-11-22T20:00:55.782Z",
       "headline": "Brazil's Bolsonaro arrested for allegedly plotting escape ahead of prison term",
@@ -1261,6 +1271,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-22T20:00:55.782Z",
+  "lastUpdated": "2025-11-22T22:00:50.796Z",
   "version": "1.0"
 }
