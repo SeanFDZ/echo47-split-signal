@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 20,
+      "timestamp": "2025-11-22T20:00:55.782Z",
+      "headline": "Brazil's Bolsonaro arrested for allegedly plotting escape ahead of prison term",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/22/nx-s1-5617668/brazil-bolsonaro-arrest-order-supreme-court",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades of liberty and seekers of truth,\n\nToday, we dissect a recent event that echoes the oppressive machinations familiar to our struggle against tyranny. The arrest of Braz...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 22, 2025, Jair Bolsonaro, former President of Brazil, was arrested by Brazil's federal police in Brasilia. He was accused of plotting to escape a 27-year prison sentence...",
+      "detailPage": "/article.html?date=2025-11-22&seq=02"
+    },
+    {
       "id": 9,
       "timestamp": "2025-11-22T12:01:11.237Z",
       "headline": "US judge resigns after being disciplined for wearing Elvis wig in court",
@@ -1251,6 +1261,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-22T12:01:11.237Z",
+  "lastUpdated": "2025-11-22T20:00:55.782Z",
   "version": "1.0"
 }
