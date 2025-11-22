@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4,
+      "timestamp": "2025-11-22T00:01:27.945Z",
+      "headline": "Ohio officer acquitted of murdering pregnant woman suspected of shoplifting",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cg4ny1wd443o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "[SAFETY CHECK FAILED - VIOLENT LANGUAGE DETECTED]\n\n**Rebel Transmission**\n\nComrades,\n\nThe recent article detailing the acquittal of a law enforcer in Ohio for the murder of Ta'Kiya Young, a pregnant w...",
+      "partigazPreview": "**Facts Summary**\n\nOn August 24, 2023, in a suburb of Columbus, Ohio, police officer Connor Grubb fatally shot Ta'Kiya Young, a 21-year-old pregnant woman, in a supermarket car park. Young was suspect...",
+      "detailPage": "/article.html?date=2025-11-21&seq=06"
+    },
+    {
       "id": 12,
       "timestamp": "2025-11-21T20:01:32.181Z",
       "headline": "Fugees rapper Pras Michel sentenced to 14 years in prison for illegal lobbying",
@@ -1231,6 +1241,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-21T20:01:32.181Z",
+  "lastUpdated": "2025-11-22T00:01:27.945Z",
   "version": "1.0"
 }
