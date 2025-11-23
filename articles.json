@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 5,
+      "timestamp": "2025-11-23T10:01:08.036Z",
+      "headline": "North Dakota court upholds near-total abortion ban",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/crk7mk5k3yjo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, the latest developments within North Dakota reveal another step towards a darker future under an oppressive regime reminiscent of an Empire that thrives on control an...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 22, 2025, North Dakota's state Supreme Court upheld a law making it a felony to perform an abortion in the state. The law includes penalties of up to five years in priso...",
+      "detailPage": "/article.html?date=2025-11-23&seq=01"
+    },
+    {
       "id": 25,
       "timestamp": "2025-11-22T22:00:50.796Z",
       "headline": "Trump says he's terminating legal protections for Somali migrants in Minnesota",
@@ -1271,6 +1281,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-22T22:00:50.796Z",
+  "lastUpdated": "2025-11-23T10:01:08.036Z",
   "version": "1.0"
 }
