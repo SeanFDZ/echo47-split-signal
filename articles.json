@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4,
+      "timestamp": "2025-11-23T16:01:09.261Z",
+      "headline": "JFK's granddaughter shares terminal cancer diagnosis",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cpvdyg348pko?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nThis transmission serves to illuminate the tragic and tumultuous times we face under the shadow of a dominating force akin to an empire. In a story filled with courage and fami...",
+      "partigazPreview": "**Facts Summary**\n\nTatiana Schlossberg, granddaughter of former US President John F. Kennedy, has announced that she has been diagnosed with an aggressive form of cancer and has been given less than a...",
+      "detailPage": "/article.html?date=2025-11-23&seq=02"
+    },
+    {
       "id": 5,
       "timestamp": "2025-11-23T10:01:08.036Z",
       "headline": "North Dakota court upholds near-total abortion ban",
@@ -1281,6 +1291,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-23T10:01:08.036Z",
+  "lastUpdated": "2025-11-23T16:01:09.261Z",
   "version": "1.0"
 }
