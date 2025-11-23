@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-11-23T22:00:36.980Z",
+      "headline": "Lava spews out from Hawaii's Kilauea as volcano erupts again",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/videos/c8e9lx2gx4eo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nIn these turbulent times, the eruption of Hawaii's Kilauea volcano stands as a cosmic reflection of our struggle against the oppressive regime. It is a vivid reminde...",
+      "partigazPreview": "**Facts Summary**\n\nThe Kilauea volcano in Hawaii has erupted again, with lava flow and ash spewing into the air. This marks the 37th eruption episode since December 2024, as reported by the United Sta...",
+      "detailPage": "/article.html?date=2025-11-23&seq=03"
+    },
+    {
       "id": 4,
       "timestamp": "2025-11-23T16:01:09.261Z",
       "headline": "JFK's granddaughter shares terminal cancer diagnosis",
@@ -1291,6 +1301,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-23T16:01:09.261Z",
+  "lastUpdated": "2025-11-23T22:00:36.980Z",
   "version": "1.0"
 }
