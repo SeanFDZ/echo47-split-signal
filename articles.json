@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 7,
+      "timestamp": "2025-11-24T22:01:29.726Z",
+      "headline": "Morgan Geyser, 'Slender Man' stabber, captured after fleeing group home",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvgkwgyqzn0o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nIn times of oppression, we must scrutinize the stories that emerge from sources controlled by powers reminiscent of those that seek to suppress us. The tale of Morga...",
+      "partigazPreview": "**Facts Summary**\n\nMorgan Geyser, known for the \"Slender Man\" stabbing incident, was captured by Illinois police after fleeing a group home in Wisconsin. At 23 years old, Geyser removed her monitoring...",
+      "detailPage": "/article.html?date=2025-11-24&seq=06"
+    },
+    {
       "id": 3,
       "timestamp": "2025-11-24T20:01:15.880Z",
       "headline": "Pentagon reviewing 'misconduct' allegations against Senator Mark Kelly",
@@ -1351,6 +1361,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-24T20:01:15.880Z",
+  "lastUpdated": "2025-11-24T22:01:29.726Z",
   "version": "1.0"
 }
