@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 5,
+      "timestamp": "2025-11-24T10:01:01.691Z",
+      "headline": "U.S. set to label Maduro-tied Cartel de los Soles as a terror organization",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/24/g-s1-99000/u-s-label-maduro-cartel-de-los-soles-terror-organization",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe latest intelligence from the core reveals a calculated move by the authoritarian regime, paralleling what we have seen time and again from oppressive rulers. The...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 24, 2025, the U.S. government, under President Donald Trump, is set to designate the Cartel de los Soles, allegedly led by Venezuelan President Nicolás Maduro, as a fore...",
+      "detailPage": "/article.html?date=2025-11-24&seq=01"
+    },
+    {
       "id": 2,
       "timestamp": "2025-11-23T22:00:36.980Z",
       "headline": "Lava spews out from Hawaii's Kilauea as volcano erupts again",
@@ -1301,6 +1311,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-23T22:00:36.980Z",
+  "lastUpdated": "2025-11-24T10:01:01.692Z",
   "version": "1.0"
 }
