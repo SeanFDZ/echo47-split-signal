@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-11-24T20:01:15.880Z",
+      "headline": "Pentagon reviewing 'misconduct' allegations against Senator Mark Kelly",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqxqwrlp7r0o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nTo all who seek truth and justice,\n\nRecent developments from within the heart of the empire, under the guise of maintaining order and discipline, reveal once again their true i...",
+      "partigazPreview": "**Facts Summary**\n\nThe Pentagon has announced a thorough review of serious misconduct allegations against Democratic Senator Mark Kelly. This follows a video released by Kelly and other Democratic law...",
+      "detailPage": "/article.html?date=2025-11-24&seq=05"
+    },
+    {
       "id": 8,
       "timestamp": "2025-11-24T16:01:26.166Z",
       "headline": "Virginia's tough rules for felons to regain their voting rights could soon be changing",
@@ -1341,6 +1351,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-24T16:01:26.166Z",
+  "lastUpdated": "2025-11-24T20:01:15.880Z",
   "version": "1.0"
 }
