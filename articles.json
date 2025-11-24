@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 5,
+      "timestamp": "2025-11-24T14:00:49.290Z",
+      "headline": "Trump's peace plan for Ukraine. And, why Marjorie Taylor Greene is resigning",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/24/g-s1-99036/up-first-newsletter-ukraine-russia-marjorie-taylor-greene-israel-hamas",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nIn this latest dispatch, we view yet another instance of a seemingly benevolent proposal by a powerful figure, only to find it riddled with oversight and potential f...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 24, 2025, President Donald Trump presented a 28-point peace plan for Ukraine, which was met with skepticism by European leaders due to their exclusion from the drafting...",
+      "detailPage": "/article.html?date=2025-11-24&seq=03"
+    },
+    {
+      "id": 5,
       "timestamp": "2025-11-24T12:01:17.725Z",
       "headline": "He left Gaza and fled to Europe on a jet ski. Now he hopes to bring his family",
       "source": "NPR",
@@ -1321,6 +1331,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-24T12:01:17.725Z",
+  "lastUpdated": "2025-11-24T14:00:49.290Z",
   "version": "1.0"
 }
