@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 5,
+      "timestamp": "2025-11-24T12:01:17.725Z",
+      "headline": "He left Gaza and fled to Europe on a jet ski. Now he hopes to bring his family",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/24/nx-s1-5609214/gaza-palestinian-jet-ski-europe",
+      "nemikPreview": "**Rebel Transmission**\n\nThe narrative of Mohammed Abu Daqqa's perilous journey across the Mediterranean on a jet ski is a vivid testament to the lengths individuals will go to escape oppression and fi...",
+      "partigazPreview": "**Facts Summary**\n\nMohammed Abu Daqqa, a Palestinian man, fled the war in Gaza by crossing the Mediterranean Sea on a jet ski to reach Europe. He traveled from Libya to Lampedusa, Italy, covering a di...",
+      "detailPage": "/article.html?date=2025-11-24&seq=02"
+    },
+    {
+      "id": 5,
       "timestamp": "2025-11-24T10:01:01.691Z",
       "headline": "U.S. set to label Maduro-tied Cartel de los Soles as a terror organization",
       "source": "NPR",
@@ -1311,6 +1321,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-24T10:01:01.692Z",
+  "lastUpdated": "2025-11-24T12:01:17.725Z",
   "version": "1.0"
 }
