@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 11,
+      "timestamp": "2025-11-25T18:01:10.159Z",
+      "headline": "Trump moves to designate some Muslim Brotherhood chapters as terrorist groups",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1w9j0jqj99o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nThe latest actions by the ruling administration demonstrate the oppressive tactics of an overarching regime. The decision to potentially label several chapters of the Muslim Br...",
+      "partigazPreview": "**Facts Summary**\n\nUS President Donald Trump has issued an executive order to investigate the designation of certain chapters of the Muslim Brotherhood as terrorist organizations. This move targets br...",
+      "detailPage": "/article.html?date=2025-11-25&seq=02"
+    },
+    {
       "id": 14,
       "timestamp": "2025-11-25T10:01:05.827Z",
       "headline": "What happens next for Marjorie Taylor Greene after exit from Congress?",
@@ -1381,6 +1391,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-25T10:01:05.827Z",
+  "lastUpdated": "2025-11-25T18:01:10.159Z",
   "version": "1.0"
 }
