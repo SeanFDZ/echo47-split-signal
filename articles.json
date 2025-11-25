@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 14,
+      "timestamp": "2025-11-25T10:01:05.827Z",
+      "headline": "What happens next for Marjorie Taylor Greene after exit from Congress?",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cj4qvx08450o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe recent announcement of Marjorie Taylor Greene's early resignation from Congress has sent ripples through the political landscape. Once a staunch ally of the Trum...",
+      "partigazPreview": "** Facts Summary **  \nMarjorie Taylor Greene announced her resignation from Congress effective January 5, 2026, following a public fallout with President Donald Trump. Greene, who served five years in...",
+      "detailPage": "/article.html?date=2025-11-25&seq=01"
+    },
+    {
       "id": 3,
       "timestamp": "2025-11-25T00:00:58.370Z",
       "headline": "Trump says he will visit China in April after call with Xi",
@@ -1371,6 +1381,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-25T00:00:58.371Z",
+  "lastUpdated": "2025-11-25T10:01:05.827Z",
   "version": "1.0"
 }
