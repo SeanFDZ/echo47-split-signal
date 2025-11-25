@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-11-25T00:00:58.370Z",
+      "headline": "Trump says he will visit China in April after call with Xi",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckgdr1vlz7ko?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, observe yet another maneuver by the administration akin to the Empire's ceaseless dance with oppressive regimes. The leadership declares a forthcoming journey to the...",
+      "partigazPreview": "**Facts Summary**\n\nDonald Trump announced plans to visit China in April after a phone call with Chinese President Xi Jinping. The call, which lasted about an hour, focused on trade issues, including a...",
+      "detailPage": "/article.html?date=2025-11-24&seq=07"
+    },
+    {
       "id": 7,
       "timestamp": "2025-11-24T22:01:29.726Z",
       "headline": "Morgan Geyser, 'Slender Man' stabber, captured after fleeing group home",
@@ -1361,6 +1371,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-24T22:01:29.726Z",
+  "lastUpdated": "2025-11-25T00:00:58.371Z",
   "version": "1.0"
 }
