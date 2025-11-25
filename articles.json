@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 5,
+      "timestamp": "2025-11-25T22:01:33.804Z",
+      "headline": "Viola Ford Fletcher, oldest survivor of Tulsa Race Massacre, dies aged 111",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cp34525490qo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nIn the shadow of the oppressive forces that seek to wash away history, we find ourselves reflecting on a sobering narrative from Tulsa. The passing of Viola Ford Fletcher, the...",
+      "partigazPreview": "**Facts Summary**\n\nViola Ford Fletcher, the oldest known survivor of the Tulsa Race Massacre, has died at the age of 111 in Tulsa, Oklahoma. The massacre occurred in 1921 when a white mob attacked the...",
+      "detailPage": "/article.html?date=2025-11-25&seq=04"
+    },
+    {
       "id": 3,
       "timestamp": "2025-11-25T20:01:18.392Z",
       "headline": "Watch: President Trump pardons the Thanksgiving turkeys",
@@ -1401,6 +1411,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-25T20:01:18.393Z",
+  "lastUpdated": "2025-11-25T22:01:33.805Z",
   "version": "1.0"
 }
