@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-11-25T20:01:18.392Z",
+      "headline": "Watch: President Trump pardons the Thanksgiving turkeys",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/videos/c1e47qnn37yo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nIt is a curious and telling choice of spectacle that the administration, much like an empire, chooses to cloak its machinations with the charming veneer of tradition. The pardo...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 25, 2021, President Donald Trump pardoned two Thanksgiving turkeys named Waddle and Gobble during a ceremony held in the White House Rose Garden. This event is part of a...",
+      "detailPage": "/article.html?date=2025-11-25&seq=03"
+    },
+    {
       "id": 11,
       "timestamp": "2025-11-25T18:01:10.159Z",
       "headline": "Trump moves to designate some Muslim Brotherhood chapters as terrorist groups",
@@ -1391,6 +1401,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-25T18:01:10.159Z",
+  "lastUpdated": "2025-11-25T20:01:18.393Z",
   "version": "1.0"
 }
