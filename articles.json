@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 5,
+      "timestamp": "2025-11-26T10:01:35.261Z",
+      "headline": "The looming election Trump can't afford to lose",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/clyzdgqk771o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe echoes of authoritarian control reverberate even in the heartland of what many once believed to be bastions of resistance. As we examine the unfolding political...",
+      "partigazPreview": "**Facts Summary**\n\nA special election is set to take place on December 2, 2025, in Tennessee to fill an open congressional seat. This district, historically conservative, was won by Donald Trump by 22...",
+      "detailPage": "/article.html?date=2025-11-26&seq=01"
+    },
+    {
       "id": 4,
       "timestamp": "2025-11-26T00:01:07.671Z",
       "headline": "Democrats who told troops to disobey illegal orders push back on alleged FBI probe",
@@ -1421,6 +1431,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-26T00:01:07.671Z",
+  "lastUpdated": "2025-11-26T10:01:35.262Z",
   "version": "1.0"
 }
