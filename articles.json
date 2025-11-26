@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 23,
+      "timestamp": "2025-11-26T22:01:31.711Z",
+      "headline": "Two West Virginia National Guard members shot in D.C., authorities say",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/26/nx-s1-5622038/national-guard-shooting-washington-dc",
+      "nemikPreview": "**Rebel Transmission**\n\nThe report of a shooting involving two National Guard members near the seat of power—the symbolic heart of the Empire's grip—echoes loudly within our ranks. This blatant act of...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 26, 2025, two members of the West Virginia National Guard were shot near the White House in Washington, D.C. Emergency responders were dispatched at 2:18 PM ET and trans...",
+      "detailPage": "/article.html?date=2025-11-26&seq=07"
+    },
+    {
       "id": 16,
       "timestamp": "2025-11-26T20:00:56.150Z",
       "headline": "Watch: Homes damaged as tornado, severe storms rip through Houston",
@@ -1481,6 +1491,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-26T20:00:56.150Z",
+  "lastUpdated": "2025-11-26T22:01:31.711Z",
   "version": "1.0"
 }
