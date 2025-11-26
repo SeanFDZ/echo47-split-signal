@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 8,
+      "timestamp": "2025-11-26T16:01:37.420Z",
+      "headline": "Chicago man accused of setting train passenger on fire had 72 prior arrests",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cr4drle9k12o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, I send this transmission amidst the ever-thickening shadows of oppression. As we survey the landscape of control and coercion wielded by the ruling authorities, it is...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 17, 2025, in Chicago, Illinois, Lawrence Reed allegedly set a train passenger, Bethany MaGee, on fire after dousing her with gasoline. Reed, a 50-year-old with a history...",
+      "detailPage": "/article.html?date=2025-11-26&seq=04"
+    },
+    {
       "id": 15,
       "timestamp": "2025-11-26T14:00:57.489Z",
       "headline": "Watch: Homes damaged as tornado, severe storms rip through Houston",
@@ -1451,6 +1461,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-26T14:00:57.490Z",
+  "lastUpdated": "2025-11-26T16:01:37.420Z",
   "version": "1.0"
 }
