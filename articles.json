@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4,
+      "timestamp": "2025-11-26T00:01:07.671Z",
+      "headline": "Democrats who told troops to disobey illegal orders push back on alleged FBI probe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cze832dr2n0o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nIn traversing the tumultuous landscape we find ourselves in, the parallels between our struggle and that of democracy's current plight are unmistakable. The recent a...",
+      "partigazPreview": "** Facts Summary **  \nDemocratic lawmakers, including Senator Elissa Slotkin and Senator Mark Kelly, are resisting an alleged FBI investigation into their video message urging US troops to disobey ill...",
+      "detailPage": "/article.html?date=2025-11-25&seq=05"
+    },
+    {
       "id": 5,
       "timestamp": "2025-11-25T22:01:33.804Z",
       "headline": "Viola Ford Fletcher, oldest survivor of Tulsa Race Massacre, dies aged 111",
@@ -1411,6 +1421,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-25T22:01:33.805Z",
+  "lastUpdated": "2025-11-26T00:01:07.671Z",
   "version": "1.0"
 }
