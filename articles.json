@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 7,
+      "timestamp": "2025-11-26T12:02:06.238Z",
+      "headline": "Foreign tourists to pay extra fee to visit US national parks",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1kpnxvpgy2o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow truth seekers,\n\nAs we scrutinize the latest developments from within the borders of that oppressive regime, noteworthy is the recent decree from their central authoritie...",
+      "partigazPreview": "**Facts Summary**\n\nForeign tourists visiting popular US national parks, such as the Grand Canyon and Yosemite, will be required to pay an additional $100 fee starting in 2026. This policy, announced b...",
+      "detailPage": "/article.html?date=2025-11-26&seq=02"
+    },
+    {
       "id": 5,
       "timestamp": "2025-11-26T10:01:35.261Z",
       "headline": "The looming election Trump can't afford to lose",
@@ -1431,6 +1441,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-26T10:01:35.262Z",
+  "lastUpdated": "2025-11-26T12:02:06.239Z",
   "version": "1.0"
 }
