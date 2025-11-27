@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 5,
+      "timestamp": "2025-11-27T18:00:48.140Z",
+      "headline": "'Who really likes turkey?' - JD Vance serves Thanksgiving meals to soldiers",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/videos/cn98gjnr0xpo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, I relay this report from the heart of imperial distraction and manipulation. The vice-regent, an extension of the regime's oppressive apparatus, engages in theatrical...",
+      "partigazPreview": "**Facts Summary**\n\nJD Vance and Usha Vance served an early Thanksgiving meal to troops at Fort Campbell, Tennessee. During the event, JD Vance expressed gratitude for his family, the resilience of US...",
+      "detailPage": "/article.html?date=2025-11-27&seq=04"
+    },
+    {
+      "id": 5,
       "timestamp": "2025-11-27T16:00:55.257Z",
       "headline": "'Who really likes turkey?' - JD Vance serves Thanksgiving meals to soldiers",
       "source": "BBC",
@@ -1531,6 +1541,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-27T16:00:55.258Z",
+  "lastUpdated": "2025-11-27T18:00:48.141Z",
   "version": "1.0"
 }
