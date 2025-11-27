@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 5,
+      "timestamp": "2025-11-27T16:00:55.257Z",
+      "headline": "'Who really likes turkey?' - JD Vance serves Thanksgiving meals to soldiers",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/videos/cn98gjnr0xpo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nIn the ongoing struggle against the oppressive regime, it becomes apparent how the instruments of power attempt to cloak their malevolence in gestures of benevolence. Vice-Pres...",
+      "partigazPreview": "**Facts Summary**\n\nUS Vice-President JD Vance and Second Lady Usha Vance served an early Thanksgiving meal to troops at Fort Campbell, Tennessee. During the event, Vance expressed gratitude for his fa...",
+      "detailPage": "/article.html?date=2025-11-27&seq=03"
+    },
+    {
       "id": 6,
       "timestamp": "2025-11-27T14:01:24.462Z",
       "headline": "Biffy Clyro 'angry' as visa error delays US tour",
@@ -1521,6 +1531,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-27T14:01:24.462Z",
+  "lastUpdated": "2025-11-27T16:00:55.258Z",
   "version": "1.0"
 }
