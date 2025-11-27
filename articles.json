@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 6,
+      "timestamp": "2025-11-27T20:01:25.022Z",
+      "headline": "Georgia judge dismisses 2020 election interference case against Trump",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/czxpd8pv4gyo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nWe find ourselves at a disheartening juncture in our struggle against tyranny and deceit. The recent developments in Georgia within the corridors of power reflect a...",
+      "partigazPreview": "**Facts Summary**\n\nA judge in Georgia has dismissed the 2020 election interference case against Donald Trump, concluding the last of four criminal cases against him since leaving office. The case was...",
+      "detailPage": "/article.html?date=2025-11-27&seq=05"
+    },
+    {
       "id": 5,
       "timestamp": "2025-11-27T18:00:48.140Z",
       "headline": "'Who really likes turkey?' - JD Vance serves Thanksgiving meals to soldiers",
@@ -1541,6 +1551,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-27T18:00:48.141Z",
+  "lastUpdated": "2025-11-27T20:01:25.023Z",
   "version": "1.0"
 }
