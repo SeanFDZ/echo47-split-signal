@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 7,
+      "timestamp": "2025-11-27T12:01:29.649Z",
+      "headline": "Canada's seven-time Olympic winner banned for two years over rule violation ",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c3e033nvx44o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nIn the ever-persistent shadow of the regime's oppressive tendencies, we must remain vigilant and perceptive. The recent report on Penny Oleksiak’s suspension from co...",
+      "partigazPreview": "**Facts Summary**\n\nPenny Oleksiak, Canada's most decorated Olympian with seven medals, has been banned from competition for two years due to anti-doping rule violations. The International Testing Agen...",
+      "detailPage": "/article.html?date=2025-11-27&seq=01"
+    },
+    {
       "id": 4,
       "timestamp": "2025-11-27T00:00:52.222Z",
       "headline": "Basketball player, 20, dies after college game",
@@ -1501,6 +1511,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-27T00:00:52.222Z",
+  "lastUpdated": "2025-11-27T12:01:29.649Z",
   "version": "1.0"
 }
