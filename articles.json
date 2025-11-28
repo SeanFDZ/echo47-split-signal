@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4,
+      "timestamp": "2025-11-28T10:00:44.714Z",
+      "headline": "Carney's new Alberta oil pipeline deal already faces opposition",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cgkexjxmvd7o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, heed this new dispatch on the latest machinations of our time's autocrats, embodied by actions that echo the Empire's disregard for worlds beyond their reach. The doc...",
+      "partigazPreview": "**Facts Summary**\n\nCanadian Prime Minister Mark Carney signed a deal with Alberta for a new oil pipeline to the Pacific, which faces opposition. The agreement exempts the pipeline from some federal cl...",
+      "detailPage": "/article.html?date=2025-11-28&seq=01"
+    },
+    {
       "id": 6,
       "timestamp": "2025-11-27T20:01:25.022Z",
       "headline": "Georgia judge dismisses 2020 election interference case against Trump",
@@ -1551,6 +1561,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-27T20:01:25.023Z",
+  "lastUpdated": "2025-11-28T10:00:44.714Z",
   "version": "1.0"
 }
