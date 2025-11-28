@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 14,
+      "timestamp": "2025-11-28T22:01:13.799Z",
+      "headline": "Zelenskyy's chief of staff resigns as Ukraine corruption investigations widen",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/28/g-s1-99736/zelenskyys-chief-of-staff-resigns-as-ukraine-corruption-investigations-widen",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, it is with a sense of urgency that I transmit this latest intelligence concerning the ongoing situation in Ukraine—a beacon of hope and resistance against the oppress...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 28, 2025, Andrii Yermak, the chief of staff to Ukrainian President Volodymyr Zelenskyy, resigned following searches of his residence by anti-corruption investigators in...",
+      "detailPage": "/article.html?date=2025-11-28&seq=05"
+    },
+    {
+      "id": 14,
       "timestamp": "2025-11-28T16:01:45.929Z",
       "headline": "Israeli forces kill at least 10 in southern Syria raid, officials and residents say",
       "source": "NPR",
@@ -1591,6 +1601,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-28T16:01:45.929Z",
+  "lastUpdated": "2025-11-28T22:01:13.799Z",
   "version": "1.0"
 }
