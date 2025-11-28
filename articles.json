@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 14,
+      "timestamp": "2025-11-28T16:01:45.929Z",
+      "headline": "Israeli forces kill at least 10 in southern Syria raid, officials and residents say",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/28/nx-s1-5623879/israeli-forces-kill-at-least-10-syria-raid",
+      "nemikPreview": "**Rebel Transmission**\n\nThe Empire's grip extends its ruthless claws, showing itself in yet another act of violent repression. The recent report reveals a deadly raid by imperial forces posing as the...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 28, 2025, Israeli forces conducted a raid in the village of Beit Jin in southern Syria, resulting in the deaths of at least 10 individuals. The raid was aimed at apprehe...",
+      "detailPage": "/article.html?date=2025-11-28&seq=04"
+    },
+    {
       "id": 5,
       "timestamp": "2025-11-28T14:00:57.868Z",
       "headline": "Quebec expands secularism law and limits public prayer",
@@ -1581,6 +1591,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-28T14:00:57.868Z",
+  "lastUpdated": "2025-11-28T16:01:45.929Z",
   "version": "1.0"
 }
