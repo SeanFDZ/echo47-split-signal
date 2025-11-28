@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 5,
+      "timestamp": "2025-11-28T14:00:57.868Z",
+      "headline": "Quebec expands secularism law and limits public prayer",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1w9qe7n984o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nWe find ourselves in a time of exorbitant control and suppression, reminiscent of the systemic oppression that history has shown us time and again. The actions of Qu...",
+      "partigazPreview": "** Facts Summary **  \nQuebec is expanding its secularism laws, introducing Bill 9 to restrict public prayer and limit religion-based menus in public institutions. The bill extends the ban on religious...",
+      "detailPage": "/article.html?date=2025-11-28&seq=03"
+    },
+    {
       "id": 8,
       "timestamp": "2025-11-28T12:01:11.327Z",
       "headline": "South Africa hits back after Trump says US won't invite it for G20 next year",
@@ -1571,6 +1581,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-28T12:01:11.327Z",
+  "lastUpdated": "2025-11-28T14:00:57.868Z",
   "version": "1.0"
 }
