@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 9,
+      "timestamp": "2025-11-29T12:00:37.457Z",
+      "headline": "Pope's visit to Lebanon sparks hope but also frustration",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/29/nx-s1-5623028/pope-leo-lebanon",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades across the galaxy,\n\nThe article from the system's official media, NPR, highlights the ongoing struggles and hopes in Lebanon as Pope Leo prepares his visit. It reflect...",
+      "partigazPreview": "**Facts Summary**\n\nPope Leo XIV is visiting Lebanon, which has sparked both hope and frustration among locals. The visit is focused on northern Lebanon, leaving southern Christian villages feeling ove...",
+      "detailPage": "/article.html?date=2025-11-29&seq=02"
+    },
+    {
       "id": 10,
       "timestamp": "2025-11-29T10:01:05.414Z",
       "headline": "Airbus calls for 'immediate' software upgrade to A320 aircraft",
@@ -1611,6 +1621,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-29T10:01:05.414Z",
+  "lastUpdated": "2025-11-29T12:00:37.457Z",
   "version": "1.0"
 }
