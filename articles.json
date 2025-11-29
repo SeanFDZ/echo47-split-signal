@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 5,
+      "timestamp": "2025-11-29T16:00:41.792Z",
+      "headline": "Trump to pardon ex-Honduras president convicted of drug trafficking",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1kpm0rvxepo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, the latest development from the oppressive regime echoes the all-too-familiar tactics of control and subjugation. The pardoning of a former foreign leader convicted o...",
+      "partigazPreview": "**Facts Summary**\n\nDonald Trump announced his intention to pardon Juan Orlando Hernández, the former president of Honduras, who was convicted in 2024 of drug trafficking and firearms offenses and sent...",
+      "detailPage": "/article.html?date=2025-11-29&seq=03"
+    },
+    {
       "id": 9,
       "timestamp": "2025-11-29T12:00:37.457Z",
       "headline": "Pope's visit to Lebanon sparks hope but also frustration",
@@ -1621,6 +1631,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-29T12:00:37.457Z",
+  "lastUpdated": "2025-11-29T16:00:41.792Z",
   "version": "1.0"
 }
