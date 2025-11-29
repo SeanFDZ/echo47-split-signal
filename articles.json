@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 10,
+      "timestamp": "2025-11-29T10:01:05.414Z",
+      "headline": "Airbus calls for 'immediate' software upgrade to A320 aircraft",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/11/28/nx-s1-5624379/airbus-software-upgrade-a320-aircraft",
+      "nemikPreview": "**Rebel Transmission**\n\nTo the keepers of truth and freedom,\n\nIn our ongoing struggle against the oppressive regime, let this message serve as a reminder of the systemic failures within oppressive str...",
+      "partigazPreview": "**Facts Summary**\n\nAirbus has requested an immediate software upgrade for A320 aircraft due to a potential issue with flight controls caused by intense solar radiation. This affects over 9,000 A320 pl...",
+      "detailPage": "/article.html?date=2025-11-29&seq=01"
+    },
+    {
       "id": 14,
       "timestamp": "2025-11-28T22:01:13.799Z",
       "headline": "Zelenskyy's chief of staff resigns as Ukraine corruption investigations widen",
@@ -1601,6 +1611,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-28T22:01:13.799Z",
+  "lastUpdated": "2025-11-29T10:01:05.414Z",
   "version": "1.0"
 }
