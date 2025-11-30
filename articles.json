@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-11-30T14:00:42.107Z",
+      "headline": "Four killed in shooting at family gathering in California",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvg81p61dnmo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nTo all who stand against tyranny, this transmission seeks to shed light on another tale of sorrow under a regime that mirrors the very essence of control and neglect we resist....",
+      "partigazPreview": "**Facts Summary**\n\nA mass shooting occurred at a family gathering in Stockton, California, resulting in four deaths and ten injuries. The incident took place at a restaurant during what was reported a...",
+      "detailPage": "/article.html?date=2025-11-30&seq=02"
+    },
+    {
       "id": 13,
       "timestamp": "2025-11-30T12:00:58.141Z",
       "headline": "FDA to raise hurdles for vaccines, faulting COVID shots for 10 kids' deaths",
@@ -1651,6 +1661,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-30T12:00:58.141Z",
+  "lastUpdated": "2025-11-30T14:00:42.107Z",
   "version": "1.0"
 }
