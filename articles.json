@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 1,
+      "timestamp": "2025-11-30T22:00:45.331Z",
+      "headline": "Ukraine talks 'productive' but more work needed, Rubio says",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cd9z2e3exk9o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, \n\nThe recent article from Earth portrays a diplomatic event in which the imperial-centric order, led by former President Donald Trump, attempts to mask its hegemonic...",
+      "partigazPreview": "**Facts Summary**\n\nUS Secretary of State Marco Rubio described recent talks with Ukraine as productive, though more work is needed to finalize a deal to end the Russia-Ukraine war. The talks took plac...",
+      "detailPage": "/article.html?date=2025-11-30&seq=04"
+    },
+    {
       "id": 3,
       "timestamp": "2025-11-30T18:00:55.687Z",
       "headline": "US halts all asylum claim decisions after National Guard shooting",
@@ -1671,6 +1681,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-30T18:00:55.687Z",
+  "lastUpdated": "2025-11-30T22:00:45.331Z",
   "version": "1.0"
 }
