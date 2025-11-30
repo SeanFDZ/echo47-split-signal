@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 13,
+      "timestamp": "2025-11-30T12:00:58.141Z",
+      "headline": "FDA to raise hurdles for vaccines, faulting COVID shots for 10 kids' deaths",
+      "source": "NPR",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/11/29/nx-s1-5624998/fda-vaccines-covid-children-safety",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, in light of recent developments from the realm of the Empire's Health Directorate, we must diligently analyze our understanding and approach to resist the narratives...",
+      "partigazPreview": "**Facts Summary**\n\nThe Food and Drug Administration (FDA) plans to tighten its vaccine approval process due to concerns about COVID vaccinations linked to the deaths of 10 children. This decision foll...",
+      "detailPage": "/article.html?date=2025-11-30&seq=01"
+    },
+    {
       "id": 1,
       "timestamp": "2025-11-29T18:00:42.164Z",
       "headline": "Consider airspace around Venezuela closed, Trump says ",
@@ -1641,6 +1651,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-29T18:00:42.165Z",
+  "lastUpdated": "2025-11-30T12:00:58.141Z",
   "version": "1.0"
 }
