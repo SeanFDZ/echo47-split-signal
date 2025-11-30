@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-11-30T18:00:55.687Z",
+      "headline": "US halts all asylum claim decisions after National Guard shooting",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe oppressive regime we face continues to wield its power with reckless disregard for human dignity and justice. The recent halt of asylum decisions by the administ...",
+      "partigazPreview": "**Facts Summary**\n\nThe Trump administration has halted all asylum decisions following the shooting of two National Guard soldiers in Washington DC, resulting in one death. The suspect, Rahmanullah Lak...",
+      "detailPage": "/article.html?date=2025-11-30&seq=03"
+    },
+    {
       "id": 2,
       "timestamp": "2025-11-30T14:00:42.107Z",
       "headline": "Four killed in shooting at family gathering in California",
@@ -1661,6 +1671,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-11-30T14:00:42.107Z",
+  "lastUpdated": "2025-11-30T18:00:55.687Z",
   "version": "1.0"
 }
