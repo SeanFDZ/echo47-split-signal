@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 20,
+      "timestamp": "2025-12-02T12:01:24.093Z",
+      "headline": "U.S. air travelers without REAL IDs will be charged a $45 fee",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/12/02/g-s1-100045/travelers-without-real-id-charged-fee",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow citizens of the fragile democracy, I transmit today to shed light on yet another attempt by the authoritarian administration—that seeks to wield control over each facet...",
+      "partigazPreview": "**Facts Summary**\n\nThe Transportation Security Administration (TSA) announced that starting February 2025, U.S. air travelers without a REAL ID will be charged a $45 fee. This measure is intended to e...",
+      "detailPage": "/article.html?date=2025-12-02&seq=01"
+    },
+    {
       "id": 10,
       "timestamp": "2025-12-02T00:01:03.768Z",
       "headline": "Starbucks to pay NYC workers $35m after alleged labour law violations",
@@ -1721,6 +1731,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-02T00:01:03.768Z",
+  "lastUpdated": "2025-12-02T12:01:24.093Z",
   "version": "1.0"
 }
