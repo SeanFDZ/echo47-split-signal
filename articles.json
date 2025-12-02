@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 7,
+      "timestamp": "2025-12-02T14:01:20.961Z",
+      "headline": "Costco sues Trump administration for 'full refund' of tariffs",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c3r78peyzzlo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nThe struggle against oppressive forces continues as the multinational retail entity, Costco, positions itself in defiance of the central authority's unfair economic impositions...",
+      "partigazPreview": "**Facts Summary**\n\nCostco has filed a lawsuit against the Trump administration seeking a full refund of import duties related to tariffs imposed by President Trump. The lawsuit challenges the legality...",
+      "detailPage": "/article.html?date=2025-12-02&seq=02"
+    },
+    {
       "id": 20,
       "timestamp": "2025-12-02T12:01:24.093Z",
       "headline": "U.S. air travelers without REAL IDs will be charged a $45 fee",
@@ -1731,6 +1741,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-02T12:01:24.093Z",
+  "lastUpdated": "2025-12-02T14:01:20.961Z",
   "version": "1.0"
 }
