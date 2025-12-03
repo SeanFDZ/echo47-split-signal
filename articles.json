@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4,
+      "timestamp": "2025-12-03T10:00:39.445Z",
+      "headline": "Republicans win Tennessee election despite Democratic fightback",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvgrpy9vzzno?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nThis transmission grapples with the ever-present stranglehold of oppressive power in the face of a seemingly relentless pursuit of dominance by an administration comparable to...",
+      "partigazPreview": "**Facts Summary**\n\nRepublicans won a congressional election in Tennessee's 7th Congressional District, with Matt Van Epps defeating Democrat Aftyn Behn by approximately nine percentage points. This vi...",
+      "detailPage": "/article.html?date=2025-12-03&seq=01"
+    },
+    {
       "id": 2,
       "timestamp": "2025-12-03T00:00:54.966Z",
       "headline": "US Homeland Security secretary calls for more travel bans",
@@ -1781,6 +1791,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-03T00:00:54.966Z",
+  "lastUpdated": "2025-12-03T10:00:39.445Z",
   "version": "1.0"
 }
