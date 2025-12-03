@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 16,
+      "timestamp": "2025-12-03T14:01:53.661Z",
+      "headline": "What was Honduras ex-president convicted of and why has Trump pardoned him?",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c9qewln7912o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nThe audacity of the ruling power continues to astonish even the most seasoned observers. News has arrived of the exoneration of Juan Orlando Hernández, former president of Hond...",
+      "partigazPreview": "**Facts Summary**\n\nFormer Honduran president Juan Orlando Hernández was convicted in 2024 for his involvement in a drug trafficking scheme that brought over 400 tonnes of cocaine into the United State...",
+      "detailPage": "/article.html?date=2025-12-03&seq=03"
+    },
+    {
       "id": 1,
       "timestamp": "2025-12-03T12:00:54.864Z",
       "headline": "US defence secretary says he did not see survivors before follow-up strike on drug boat",
@@ -1801,6 +1811,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-03T12:00:54.864Z",
+  "lastUpdated": "2025-12-03T14:01:53.661Z",
   "version": "1.0"
 }
