@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 1,
+      "timestamp": "2025-12-03T22:01:31.305Z",
+      "headline": "Previously unseen images of Epstein's island released ",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4g5rrlve33o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades in the struggle against tyranny,\n\nThe recent revelations concerning Jeffrey Epstein's island, sanctioned by the top figures of the current regime, illuminate a strateg...",
+      "partigazPreview": "** Facts Summary **  \nDemocrats on the House Oversight Committee released previously unseen images and videos of Jeffrey Epstein's island, Little St James, in the US Virgin Islands. The images show va...",
+      "detailPage": "/article.html?date=2025-12-03&seq=04"
+    },
+    {
       "id": 16,
       "timestamp": "2025-12-03T14:01:53.661Z",
       "headline": "What was Honduras ex-president convicted of and why has Trump pardoned him?",
@@ -1811,6 +1821,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-03T14:01:53.661Z",
+  "lastUpdated": "2025-12-03T22:01:31.305Z",
   "version": "1.0"
 }
