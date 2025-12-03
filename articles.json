@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-12-03T00:00:54.966Z",
+      "headline": "US Homeland Security secretary calls for more travel bans",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c79x3rwxjryo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nThe looming shadow of authoritarianism grows larger as the so-called administration tightens its grip on freedom and justice. Under the guise of national security, sweeping tra...",
+      "partigazPreview": "**Facts Summary**\n\nOn December 2, 2025, Homeland Security Secretary Kristi Noem recommended a travel ban on several countries due to concerns about crime in the US. This proposal, supported by Preside...",
+      "detailPage": "/article.html?date=2025-12-02&seq=06"
+    },
+    {
       "id": 5,
       "timestamp": "2025-12-02T20:01:11.030Z",
       "headline": "Sabrina Carpenter and Franklin the Turtle in tiff with Trump administration over use of work",
@@ -1771,6 +1781,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-02T20:01:11.030Z",
+  "lastUpdated": "2025-12-03T00:00:54.966Z",
   "version": "1.0"
 }
