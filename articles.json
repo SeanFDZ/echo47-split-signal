@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 1,
+      "timestamp": "2025-12-03T12:00:54.864Z",
+      "headline": "US defence secretary says he did not see survivors before follow-up strike on drug boat",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckglx77mplgo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe shadows of oppression continue to lengthen as the Trump administration, akin to a ravenous beast, strikes yet again at those they deem expendable. The details of...",
+      "partigazPreview": "** Facts Summary **\n\nOn December 2, 2025, US Defence Secretary Pete Hegseth stated he did not see survivors before a second strike on a drug boat in the Caribbean, which reportedly killed two survivor...",
+      "detailPage": "/article.html?date=2025-12-03&seq=02"
+    },
+    {
       "id": 4,
       "timestamp": "2025-12-03T10:00:39.445Z",
       "headline": "Republicans win Tennessee election despite Democratic fightback",
@@ -1791,6 +1801,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-03T10:00:39.445Z",
+  "lastUpdated": "2025-12-03T12:00:54.864Z",
   "version": "1.0"
 }
