@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-12-04T18:01:06.103Z",
+      "headline": "Ukraine and US negotiators to meet in Florida after Moscow talks, White House says",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow Comrades,\n\nObserve how the mechanisms of control persist under the guise of negotiation. The recent talks in Moscow, attended by Jared Kushner, kin to the chief architec...",
+      "partigazPreview": "**Facts Summary**\n\nUS special envoy Steve Witkoff and Jared Kushner attended talks in Moscow with Russian President Vladimir Putin, which lasted nearly five hours but resulted in no compromise on endi...",
+      "detailPage": "/article.html?date=2025-12-04&seq=03"
+    },
+    {
       "id": 15,
       "timestamp": "2025-12-04T14:02:13.754Z",
       "headline": "'Not becoming of a president': Somali-Americans respond to Trump's 'garbage' remarks",
@@ -1851,6 +1861,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-04T14:02:13.754Z",
+  "lastUpdated": "2025-12-04T18:01:06.103Z",
   "version": "1.0"
 }
