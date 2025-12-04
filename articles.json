@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 15,
+      "timestamp": "2025-12-04T14:02:13.754Z",
+      "headline": "'Not becoming of a president': Somali-Americans respond to Trump's 'garbage' remarks",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c8dy1613j2ro?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nIn these turbulent times, the echoes of oppression resonate once more, as the Trump administration unleashes another wave of targeted aggression aimed at our Somali-American br...",
+      "partigazPreview": "**Facts Summary**\n\nOn December 4, 2025, Somali-Americans in Minnesota expressed fear following President Donald Trump's remarks criticizing their community. Trump described Somali immigrants as \"garba...",
+      "detailPage": "/article.html?date=2025-12-04&seq=02"
+    },
+    {
       "id": 2,
       "timestamp": "2025-12-04T12:00:51.160Z",
       "headline": "Hegseth could have endangered troop safety with Signal chat - Pentagon watchdog",
@@ -1841,6 +1851,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-04T12:00:51.160Z",
+  "lastUpdated": "2025-12-04T14:02:13.754Z",
   "version": "1.0"
 }
