@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-12-04T12:00:51.160Z",
+      "headline": "Hegseth could have endangered troop safety with Signal chat - Pentagon watchdog",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx2ej74pxdro?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades of the cause, a development from the heart of the Empire has emerged. The continued carelessness and hubris of those in power risk not just their own standing, but the...",
+      "partigazPreview": "**Facts Summary**\n\nA report from the Pentagon's inspector general indicated that US Defence Secretary Pete Hegseth potentially endangered troop safety by using the unsecured Signal app to discuss a pl...",
+      "detailPage": "/article.html?date=2025-12-04&seq=01"
+    },
+    {
       "id": 1,
       "timestamp": "2025-12-04T00:01:30.966Z",
       "headline": "'No excuse' - California doctor sentenced to 30 months in Matthew Perry overdose case",
@@ -1831,6 +1841,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-04T00:01:30.966Z",
+  "lastUpdated": "2025-12-04T12:00:51.160Z",
   "version": "1.0"
 }
