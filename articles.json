@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 1,
+      "timestamp": "2025-12-04T00:01:30.966Z",
+      "headline": "'No excuse' - California doctor sentenced to 30 months in Matthew Perry overdose case",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy7v0gpv2pgo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nIn the shadowed corridors of control, where those in authority wield their influence with calculated precision, we find echoes of a struggle familiar to us all. The case of the...",
+      "partigazPreview": "** Facts Summary **  \nDr. Salvador Plasencia was sentenced to 30 months in federal prison and fined $5,600 for supplying ketamine to actor Matthew Perry, who died of an overdose at age 54. Plasencia,...",
+      "detailPage": "/article.html?date=2025-12-03&seq=05"
+    },
+    {
+      "id": 1,
       "timestamp": "2025-12-03T22:01:31.305Z",
       "headline": "Previously unseen images of Epstein's island released ",
       "source": "BBC",
@@ -1821,6 +1831,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-03T22:01:31.305Z",
+  "lastUpdated": "2025-12-04T00:01:30.966Z",
   "version": "1.0"
 }
