@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 1,
+      "timestamp": "2025-12-04T22:02:09.391Z",
+      "headline": "Suspect arrested in pipe bomb incident on eve of Jan 6, ending years-long manhunt",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c62d8v6jpwzo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "[SAFETY CHECK FAILED - VIOLENT LANGUAGE DETECTED]\n\n**Rebel Transmission**\n\nComrades, we have intercepted further evidence of the oppressive regime's manipulation and control tactics. The arrest of Bri...",
+      "partigazPreview": "** Facts Summary **\n\nAuthorities arrested Brian Cole Jr, a Virginia man, in connection with two pipe bombs placed outside the Republican and Democratic national committees' headquarters on January 5,...",
+      "detailPage": "/article.html?date=2025-12-04&seq=05"
+    },
+    {
       "id": 3,
       "timestamp": "2025-12-04T20:01:51.474Z",
       "headline": "They contracted hepatitis before the vaccine was given at birth - now the shot may be delayed again",
@@ -1871,6 +1881,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-04T20:01:51.474Z",
+  "lastUpdated": "2025-12-04T22:02:09.391Z",
   "version": "1.0"
 }
