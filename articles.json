@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-12-04T20:01:51.474Z",
+      "headline": "They contracted hepatitis before the vaccine was given at birth - now the shot may be delayed again",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1m8gx545k5o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nIn a world increasingly shaded by the oppressive shadow of a dogmatic regime, we find ourselves yet again confronting decisions that reek of imperial oversight and n...",
+      "partigazPreview": "**Facts Summary**\n\nThe US Advisory Committee on Immunization Practices (Acip) is considering postponing the hepatitis B vaccine for newborns. This decision follows the replacement of Acip members by H...",
+      "detailPage": "/article.html?date=2025-12-04&seq=04"
+    },
+    {
       "id": 2,
       "timestamp": "2025-12-04T18:01:06.103Z",
       "headline": "Ukraine and US negotiators to meet in Florida after Moscow talks, White House says",
@@ -1861,6 +1871,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-04T18:01:06.103Z",
+  "lastUpdated": "2025-12-04T20:01:51.474Z",
   "version": "1.0"
 }
