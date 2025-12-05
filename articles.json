@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4,
+      "timestamp": "2025-12-05T16:01:34.426Z",
+      "headline": "US Supreme Court allows Texas to use redrawn voting maps in midterms",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvg1v21p3ydo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe Empire continues to tighten its grip through manipulative means, once again showcasing its blatant disregard for equitable governance. The recent decrees from th...",
+      "partigazPreview": "**Facts Summary**\n\nThe US Supreme Court has allowed Texas to use a newly redrawn congressional map, which could potentially add up to five Republican seats in the 2026 midterm elections. The decision...",
+      "detailPage": "/article.html?date=2025-12-05&seq=03"
+    },
+    {
       "id": 3,
       "timestamp": "2025-12-05T14:01:22.893Z",
       "headline": "Netflix to buy Warner Bros film and streaming businesses for $72bn",
@@ -1901,6 +1911,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-05T14:01:22.893Z",
+  "lastUpdated": "2025-12-05T16:01:34.426Z",
   "version": "1.0"
 }
