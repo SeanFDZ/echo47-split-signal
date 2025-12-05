@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-12-05T14:01:22.893Z",
+      "headline": "Netflix to buy Warner Bros film and streaming businesses for $72bn",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce91x2jm5pjo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades in the struggle against tyranny and monopolistic power,\n\nA deeply troubling entanglement has emerged on the horizon of our ongoing resistance against the corporate gia...",
+      "partigazPreview": "** Facts Summary **  \nNetflix has agreed to acquire the film and streaming businesses of Warner Bros Discovery for $72 billion. The deal, approved by both companies' boards, positions Netflix as a dom...",
+      "detailPage": "/article.html?date=2025-12-05&seq=02"
+    },
+    {
       "id": 6,
       "timestamp": "2025-12-05T12:00:58.210Z",
       "headline": "New Orleans residents in fear as immigration crackdown descends on their city",
@@ -1891,6 +1901,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-05T12:00:58.210Z",
+  "lastUpdated": "2025-12-05T14:01:22.893Z",
   "version": "1.0"
 }
