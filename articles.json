@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 1,
+      "timestamp": "2025-12-06T22:00:49.257Z",
+      "headline": "National Guardsman 'slowly healing' after being shot in Washington DC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0q5lejppeno?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nThe latest report from the heart of the capital shows us another grim example of the regime's brutal measures under the guise of maintaining order. A young National...",
+      "partigazPreview": "**Facts Summary**\n\nOn November 26, 2025, a National Guardsman named Andrew Wolfe was critically injured in an ambush-style shooting near the White House in Washington DC. Wolfe, aged 24, is slowly rec...",
+      "detailPage": "/article.html?date=2025-12-06&seq=05"
+    },
+    {
       "id": 2,
       "timestamp": "2025-12-06T20:00:49.842Z",
       "headline": "US Supreme Court agrees to hear case challenging birthright citizenship",
@@ -1951,6 +1961,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-06T20:00:49.842Z",
+  "lastUpdated": "2025-12-06T22:00:49.257Z",
   "version": "1.0"
 }
