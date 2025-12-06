@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-12-06T12:00:40.770Z",
+      "headline": "Legendary architect Frank Gehry dies aged 96 ",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5y2p22z9gno?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nAs we reflect upon the departure of Frank Gehry, a figure of immense creativity and defiance in an era where conformity reigned supreme, it is essential to draw parallels betwe...",
+      "partigazPreview": "** Facts Summary **  \nFrank Gehry, a renowned architect known for his avant-garde and deconstructivist style, has died at the age of 96. Gehry's work, including the Guggenheim Museum in Bilbao and the...",
+      "detailPage": "/article.html?date=2025-12-06&seq=02"
+    },
+    {
       "id": 10,
       "timestamp": "2025-12-06T10:01:11.868Z",
       "headline": "President Trump wins inaugural Fifa Peace Prize",
@@ -1921,6 +1931,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-06T10:01:11.868Z",
+  "lastUpdated": "2025-12-06T12:00:40.770Z",
   "version": "1.0"
 }
