@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-12-06T20:00:49.842Z",
+      "headline": "US Supreme Court agrees to hear case challenging birthright citizenship",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c208j0wrzrvo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "[SAFETY CHECK FAILED - VIOLENT LANGUAGE DETECTED]\n\n**Rebel Transmission**\n\nComrades, a pivotal moment looms on the horizon as the US Supreme Court has resolved to deliberate on the very essence of our...",
+      "partigazPreview": "**Facts Summary**\n\nThe US Supreme Court has agreed to hear a case challenging the constitutional right to birthright citizenship for some children born in the United States. This follows an executive...",
+      "detailPage": "/article.html?date=2025-12-06&seq=04"
+    },
+    {
       "id": 6,
       "timestamp": "2025-12-06T14:01:12.900Z",
       "headline": "Russia bombards Ukraine as US says progress made in talks with Kyiv",
@@ -1941,6 +1951,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-06T14:01:12.900Z",
+  "lastUpdated": "2025-12-06T20:00:49.842Z",
   "version": "1.0"
 }
