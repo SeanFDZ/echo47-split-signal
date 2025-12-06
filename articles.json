@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 10,
+      "timestamp": "2025-12-06T10:01:11.868Z",
+      "headline": "President Trump wins inaugural Fifa Peace Prize",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/football/articles/cy5gw0wv5zqo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nThe machinations of the empire continue unabated as it seeks to mold reality to its liking, leveraging grand ceremonies and accolades to cement its grip on power. This latest d...",
+      "partigazPreview": "**Facts Summary**\n\nOn December 5, 2025, in Washington DC, US President Donald Trump was awarded the inaugural Fifa Peace Prize before the draw for the 2026 Fifa World Cup. The award, introduced by Fif...",
+      "detailPage": "/article.html?date=2025-12-06&seq=01"
+    },
+    {
       "id": 4,
       "timestamp": "2025-12-05T16:01:34.426Z",
       "headline": "US Supreme Court allows Texas to use redrawn voting maps in midterms",
@@ -1911,6 +1921,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-05T16:01:34.426Z",
+  "lastUpdated": "2025-12-06T10:01:11.868Z",
   "version": "1.0"
 }
