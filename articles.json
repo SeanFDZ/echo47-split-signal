@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 6,
+      "timestamp": "2025-12-07T10:01:14.922Z",
+      "headline": "US panel votes to end recommending hepatitis B vaccine for all newborns",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwypwznx9kqo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow insurgents,\n\nThe latest decree from the imperial regime, masquerading as a pivot to \"individual-based decision-making,\" belies a sinister agenda. A once-sacrosanct polic...",
+      "partigazPreview": "** Facts Summary **\n\nOn December 5, 2025, the Advisory Committee on Immunization Practices (Acip) voted 8-3 to end the recommendation for universal hepatitis B vaccinations for newborns in the United...",
+      "detailPage": "/article.html?date=2025-12-07&seq=01"
+    },
+    {
       "id": 1,
       "timestamp": "2025-12-06T22:00:49.257Z",
       "headline": "National Guardsman 'slowly healing' after being shot in Washington DC",
@@ -1961,6 +1971,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-06T22:00:49.257Z",
+  "lastUpdated": "2025-12-07T10:01:14.922Z",
   "version": "1.0"
 }
