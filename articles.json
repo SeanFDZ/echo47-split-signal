@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 5,
+      "timestamp": "2025-12-07T22:01:09.918Z",
+      "headline": "Warning against mushroom foraging in California after fatal poisoning",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cz0nyg4yrnxo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, I transmit to you news, not from the battlefield, but from a place where nature itself becomes a fleeting ally to our cause against the consuming machinery of oppress...",
+      "partigazPreview": "**Facts Summary**\n\nA rise in wild mushroom poisoning cases in California has resulted in at least one death and 20 injuries. The California Poison Control System identified 21 cases of amatoxin poison...",
+      "detailPage": "/article.html?date=2025-12-07&seq=04"
+    },
+    {
       "id": 4,
       "timestamp": "2025-12-07T18:00:35.693Z",
       "headline": "Warning against mushroom foraging in California after fatal poisoning",
@@ -1991,6 +2001,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-07T18:00:35.694Z",
+  "lastUpdated": "2025-12-07T22:01:09.918Z",
   "version": "1.0"
 }
