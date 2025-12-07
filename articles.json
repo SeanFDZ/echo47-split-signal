@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-12-07T14:01:01.876Z",
+      "headline": "Katy Perry goes Instagram official with Justin Trudeau",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/crmd44yz7nmo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nWe find ourselves enveloped in a digital age where distractions are employed as tools of subjugation. The recent article concerning a pop singer's liaison with a for...",
+      "partigazPreview": "**Facts Summary**\n\nKaty Perry, a 41-year-old pop star, posted photographs and videos on Instagram of her trip to Japan with Justin Trudeau, the 53-year-old former Prime Minister of Canada. The images...",
+      "detailPage": "/article.html?date=2025-12-07&seq=02"
+    },
+    {
       "id": 6,
       "timestamp": "2025-12-07T10:01:14.922Z",
       "headline": "US panel votes to end recommending hepatitis B vaccine for all newborns",
@@ -1971,6 +1981,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-07T10:01:14.922Z",
+  "lastUpdated": "2025-12-07T14:01:01.876Z",
   "version": "1.0"
 }
