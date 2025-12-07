@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4,
+      "timestamp": "2025-12-07T18:00:35.693Z",
+      "headline": "Warning against mushroom foraging in California after fatal poisoning",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cz0nyg4yrnxo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow citizens of the resistance,\n\nAn article from the information net highlights another insidious threat burgeoning within our territories. The warning against mushroom fora...",
+      "partigazPreview": "**Facts Summary**\n\nOfficials in California, including the California Poison Control System and the California Department of Public Health, have issued warnings against foraging for wild mushrooms due...",
+      "detailPage": "/article.html?date=2025-12-07&seq=03"
+    },
+    {
       "id": 2,
       "timestamp": "2025-12-07T14:01:01.876Z",
       "headline": "Katy Perry goes Instagram official with Justin Trudeau",
@@ -1981,6 +1991,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-07T14:01:01.876Z",
+  "lastUpdated": "2025-12-07T18:00:35.694Z",
   "version": "1.0"
 }
