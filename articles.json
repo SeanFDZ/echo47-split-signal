@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 12,
+      "timestamp": "2025-12-08T12:01:47.335Z",
+      "headline": "Republicans push high deductible plans and health savings accounts",
+      "source": "NPR",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/12/08/nx-s1-5629249/hsa-high-deductible-health-plan",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, I send this transmission in the midst of discarding the illusion that the system as it stands is designed with the welfare of its citizens in mind. The recent develop...",
+      "partigazPreview": "**Facts Summary**\n\nOn December 8, 2025, Republicans, including Sen. Bill Cassidy and supported by Donald Trump, are advocating for high deductible health plans and health savings accounts as an altern...",
+      "detailPage": "/article.html?date=2025-12-08&seq=01"
+    },
+    {
       "id": 13,
       "timestamp": "2025-12-08T00:01:23.607Z",
       "headline": "How the White House account of September boat strike has evolved",
@@ -2011,6 +2021,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-08T00:01:23.608Z",
+  "lastUpdated": "2025-12-08T12:01:47.335Z",
   "version": "1.0"
 }
