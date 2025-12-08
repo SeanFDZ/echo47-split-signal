@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-12-08T22:01:32.299Z",
+      "headline": "Alina Habba resigns after court disqualified her from being New Jersey's top prosecutor",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cj69x814dkyo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nIn the shadow of an ever-growing autocratic rule, a telling episode has surfaced within the realm of judicial governance that echoes the essence of imperialism under the guise...",
+      "partigazPreview": "**Facts Summary**\n\nAlina Habba resigned as New Jersey's top prosecutor after a court ruled she had been unlawfully serving in that role. The court found her appointment violated the Federal Vacancies...",
+      "detailPage": "/article.html?date=2025-12-08&seq=03"
+    },
+    {
       "id": 9,
       "timestamp": "2025-12-08T16:01:31.627Z",
       "headline": "China's trade surplus hits $1 trillion for first time ever",
@@ -2031,6 +2041,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-08T16:01:31.627Z",
+  "lastUpdated": "2025-12-08T22:01:32.299Z",
   "version": "1.0"
 }
