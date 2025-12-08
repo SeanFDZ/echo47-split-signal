@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 13,
+      "timestamp": "2025-12-08T00:01:23.607Z",
+      "headline": "How the White House account of September boat strike has evolved",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4gk7eg83eno?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow Operatives,\n\nIn our struggle against oppressive forces, we must remain vigilant and ever critical of the narratives presented by the governing powers. Recent events in t...",
+      "partigazPreview": "**Facts Summary**\n\nOn September 2, 2025, a US military strike targeted a boat in the Caribbean suspected of drug trafficking, resulting in the death of 11 members of the Tren de Aragua gang. The opera...",
+      "detailPage": "/article.html?date=2025-12-07&seq=05"
+    },
+    {
       "id": 5,
       "timestamp": "2025-12-07T22:01:09.918Z",
       "headline": "Warning against mushroom foraging in California after fatal poisoning",
@@ -2001,6 +2011,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-07T22:01:09.918Z",
+  "lastUpdated": "2025-12-08T00:01:23.608Z",
   "version": "1.0"
 }
