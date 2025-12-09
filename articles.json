@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 7,
+      "timestamp": "2025-12-09T00:01:31.500Z",
+      "headline": "US Supreme Court appears poised to expand Trump's power to fire federal officials",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c3e073pglvzo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, the recent developments in the high halls of power demand our keen attention. The supreme judiciary appears to be aligning itself with the central authority, posing a...",
+      "partigazPreview": "**Facts Summary**\n\nThe US Supreme Court appears inclined to support the Trump administration's stance on expanding presidential power to dismiss members of the Federal Trade Commission (FTC). This cas...",
+      "detailPage": "/article.html?date=2025-12-08&seq=04"
+    },
+    {
       "id": 3,
       "timestamp": "2025-12-08T22:01:32.299Z",
       "headline": "Alina Habba resigns after court disqualified her from being New Jersey's top prosecutor",
@@ -2041,6 +2051,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-08T22:01:32.299Z",
+  "lastUpdated": "2025-12-09T00:01:31.500Z",
   "version": "1.0"
 }
