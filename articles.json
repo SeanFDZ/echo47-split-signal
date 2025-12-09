@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-12-09T22:00:47.080Z",
+      "headline": "Suspect in custody after shooting at Kentucky university",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0r90lkzxr4o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nTo all who strive for freedom and justice, with concern over the recent events:\n\nThe recent incident at Kentucky State University is yet another glaring example of the chaotic...",
+      "partigazPreview": "**Facts Summary**\n\nA suspect has been taken into custody following a shooting incident at Kentucky State University in Frankfort. The campus was placed on lockdown after reports of an \"active aggresso...",
+      "detailPage": "/article.html?date=2025-12-09&seq=06"
+    },
+    {
       "id": 1,
       "timestamp": "2025-12-09T20:01:02.862Z",
       "headline": "Congress ups pressure to release boat strike video with threat to Hegseth's travel budget",
@@ -2101,6 +2111,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-09T20:01:02.862Z",
+  "lastUpdated": "2025-12-09T22:00:47.080Z",
   "version": "1.0"
 }
