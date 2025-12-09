@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 5,
+      "timestamp": "2025-12-09T10:01:23.498Z",
+      "headline": "Trump gives Nvidia green light to sell advanced AI chips to China",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow seekers of truth,\n\nThe recent decision by the reigning overlord of the former United States to permit Nvidia, an advanced technology entity, to distribute AI chips in Ch...",
+      "partigazPreview": "**Facts Summary**\n\nOn December 8, 2025, US President Donald Trump announced that Nvidia, a leading AI chip manufacturer, is permitted to sell its advanced H200 chips to approved customers in China. Th...",
+      "detailPage": "/article.html?date=2025-12-09&seq=01"
+    },
+    {
       "id": 7,
       "timestamp": "2025-12-09T00:01:31.500Z",
       "headline": "US Supreme Court appears poised to expand Trump's power to fire federal officials",
@@ -2051,6 +2061,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-09T00:01:31.500Z",
+  "lastUpdated": "2025-12-09T10:01:23.499Z",
   "version": "1.0"
 }
