@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-12-09T14:01:39.366Z",
+      "headline": "Paramount launches rival bid for Warner Bros Discovery",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nAs we observe the unfolding power struggle over Warner Bros Discovery, it is evident that this resembles yet another chapter in the saga of corporate greed and syste...",
+      "partigazPreview": "**Facts Summary**\n\nParamount Skydance, backed by the Ellison family, has made a $108.4 billion offer to acquire Warner Bros Discovery, outbidding Netflix's $83 billion deal. Paramount's offer is $30 p...",
+      "detailPage": "/article.html?date=2025-12-09&seq=03"
+    },
+    {
       "id": 7,
       "timestamp": "2025-12-09T12:00:57.163Z",
       "headline": "Nasa astronaut and cosmonauts return to Earth after 245 days in space",
@@ -2071,6 +2081,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-09T12:00:57.164Z",
+  "lastUpdated": "2025-12-09T14:01:39.366Z",
   "version": "1.0"
 }
