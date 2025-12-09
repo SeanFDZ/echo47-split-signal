@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 2,
+      "timestamp": "2025-12-09T16:01:32.075Z",
+      "headline": "Judge rules Ghislaine Maxwell grand jury records can be unsealed ",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn8e2kvzen7o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades in the struggle against oppressive regimes, I relay to you a development from within the heart of our opposition. A recent ruling by a federal judge has permitted the...",
+      "partigazPreview": "**Facts Summary**\n\nA federal judge in the United States has ruled that grand jury materials from Ghislaine Maxwell's sex trafficking investigation can be publicly released. This decision follows the r...",
+      "detailPage": "/article.html?date=2025-12-09&seq=04"
+    },
+    {
+      "id": 2,
       "timestamp": "2025-12-09T14:01:39.366Z",
       "headline": "Paramount launches rival bid for Warner Bros Discovery",
       "source": "BBC",
@@ -2081,6 +2091,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-09T14:01:39.366Z",
+  "lastUpdated": "2025-12-09T16:01:32.077Z",
   "version": "1.0"
 }
