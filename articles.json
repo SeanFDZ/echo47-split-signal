@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-12-10T14:00:54.248Z",
+      "headline": "US jets tracked circling Gulf of Venezuela as tensions mount",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0edxgx31zdo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, I bring you urgent news from the front lines of imperial aggression. The latest maneuvers by the empire, under the guise of \"routine training,\" reveal their intent to...",
+      "partigazPreview": "**Facts Summary**\n\nOn December 10, 2025, two US F/A-18 Super Hornet fighter jets were tracked circling the Gulf of Venezuela for approximately 40 minutes, coming within 20 nautical miles of the Venezu...",
+      "detailPage": "/article.html?date=2025-12-10&seq=01"
+    },
+    {
       "id": 3,
       "timestamp": "2025-12-09T22:00:47.080Z",
       "headline": "Suspect in custody after shooting at Kentucky university",
@@ -2111,6 +2121,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-09T22:00:47.080Z",
+  "lastUpdated": "2025-12-10T14:00:54.248Z",
   "version": "1.0"
 }
