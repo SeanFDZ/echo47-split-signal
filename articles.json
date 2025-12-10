@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 1,
+      "timestamp": "2025-12-10T18:00:59.664Z",
+      "headline": "US could ask foreign tourists for five-year social media history before entry",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nIt is with weary vigilance that I relay this missive regarding the latest overreach by those who rule under the guise of protection. The recent declaration by the administratio...",
+      "partigazPreview": "**Facts Summary**\n\nA proposal has been unveiled by the US government that may require tourists from 40 countries, including the UK, to provide a five-year social media history as a condition of entry...",
+      "detailPage": "/article.html?date=2025-12-10&seq=03"
+    },
+    {
       "id": 10,
       "timestamp": "2025-12-10T16:01:30.489Z",
       "headline": "Eileen Higgins elected as first Democratic mayor of Miami in three decades",
@@ -2131,6 +2141,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-10T16:01:30.489Z",
+  "lastUpdated": "2025-12-10T18:00:59.665Z",
   "version": "1.0"
 }
