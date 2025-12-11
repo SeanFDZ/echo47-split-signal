@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 16,
+      "timestamp": "2025-12-11T16:02:02.708Z",
+      "headline": "Sen. Jeanne Shaheen warns millions could lose coverage as ACA votes near defeat",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/12/11/nx-s1-5639818/senator-jeanne-shaheen-affordable-health-care-act-vote",
+      "nemikPreview": "**Rebel Transmission**\n\nPeople of the Galaxy,\n\nThe winds of tyranny blow strongly as the forces of oppression threaten to extinguish the light of hope and justice. In a realm not unlike our own, a cru...",
+      "partigazPreview": "**Facts Summary**\n\nSenator Jeanne Shaheen has warned that millions could lose health insurance coverage due to the expiration of Affordable Care Act (ACA) tax credits. The Senate is preparing to vote...",
+      "detailPage": "/article.html?date=2025-12-11&seq=03"
+    },
+    {
       "id": 3,
       "timestamp": "2025-12-11T14:01:01.931Z",
       "headline": "Thousands ready to evacuate as flooding hits Pacific Northwest",
@@ -2171,6 +2181,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-11T14:01:01.932Z",
+  "lastUpdated": "2025-12-11T16:02:02.709Z",
   "version": "1.0"
 }
