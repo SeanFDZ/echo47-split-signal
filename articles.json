@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-12-11T10:01:40.989Z",
+      "headline": "Trump launches $1m 'gold card' immigration visas",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cj4q1lddj8go?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades, the latest decree from the regime mirrors the actions of an empire that seeks control through economic elitism and oppression. The $1 million 'gold card' visas are a...",
+      "partigazPreview": "**Facts Summary**\n\nPresident Donald Trump has introduced a new immigration scheme offering expedited US visas, known as the \"Trump Gold Card,\" to wealthy foreigners who can pay a minimum of $1 million...",
+      "detailPage": "/article.html?date=2025-12-11&seq=01"
+    },
+    {
       "id": 7,
       "timestamp": "2025-12-11T00:01:48.471Z",
       "headline": "Elon Musk says Doge was 'somewhat successful' but he would not do it again",
@@ -2151,6 +2161,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-11T00:01:48.471Z",
+  "lastUpdated": "2025-12-11T10:01:40.990Z",
   "version": "1.0"
 }
