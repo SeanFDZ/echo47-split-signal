@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 3,
+      "timestamp": "2025-12-11T14:01:01.931Z",
+      "headline": "Thousands ready to evacuate as flooding hits Pacific Northwest",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce91dergm00o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nCitizens of the Resistance,\n\nOur struggle against the oppressive forces of the Empire is mirrored in nature’s own turmoil, as evidenced by recent reports of catastrophic floodi...",
+      "partigazPreview": "**Facts Summary**\n\nAn atmospheric river has caused severe flooding in the Pacific Northwest, affecting both the United States and Canada. Thousands are preparing to evacuate, with an estimated 100,000...",
+      "detailPage": "/article.html?date=2025-12-11&seq=02"
+    },
+    {
+      "id": 3,
       "timestamp": "2025-12-11T10:01:40.989Z",
       "headline": "Trump launches $1m 'gold card' immigration visas",
       "source": "BBC",
@@ -2161,6 +2171,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-11T10:01:40.990Z",
+  "lastUpdated": "2025-12-11T14:01:01.932Z",
   "version": "1.0"
 }
