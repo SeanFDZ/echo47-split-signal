@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 12,
+      "timestamp": "2025-12-11T18:00:57.935Z",
+      "headline": "Fed lowers interest rates but future cuts uncertain",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx257k3n2g1o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nIn the great struggle against the pervasive forces of authoritarian rule, the recent actions taken by the Central Financial Authority — a manifestation of the ruling...",
+      "partigazPreview": "**Facts Summary**\n\nOn December 10, 2025, the US Federal Reserve, led by Jerome Powell, lowered interest rates by 0.25 percentage points, marking the third rate cut of the year. The new target range is...",
+      "detailPage": "/article.html?date=2025-12-11&seq=04"
+    },
+    {
       "id": 16,
       "timestamp": "2025-12-11T16:02:02.708Z",
       "headline": "Sen. Jeanne Shaheen warns millions could lose coverage as ACA votes near defeat",
@@ -2181,6 +2191,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-11T16:02:02.709Z",
+  "lastUpdated": "2025-12-11T18:00:57.935Z",
   "version": "1.0"
 }
