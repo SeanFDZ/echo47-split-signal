@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 3,
+      "timestamp": "2025-12-11T22:00:46.172Z",
+      "headline": "Grand jury declines to indict Letitia James for second time in a week",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cjrjj30vx8eo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nTo all who resist the encroaching darkness:\n\nThe latest news from the struggle against tyranny echoes the relentless persistence of justice amidst a manufactured storm of oppre...",
+      "partigazPreview": "**Facts Summary**\n\nA federal grand jury in Virginia has declined to indict New York Attorney General Letitia James for the second time in a week. This decision follows a previous grand jury's refusal...",
+      "detailPage": "/article.html?date=2025-12-11&seq=06"
+    },
+    {
       "id": 5,
       "timestamp": "2025-12-11T20:01:23.404Z",
       "headline": "University of Michigan head football coach jailed hours after shock firing",
@@ -2201,6 +2211,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-11T20:01:23.404Z",
+  "lastUpdated": "2025-12-11T22:00:46.172Z",
   "version": "1.0"
 }
