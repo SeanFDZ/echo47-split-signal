@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 11,
+      "timestamp": "2025-12-12T00:01:25.543Z",
+      "headline": "OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nIn the shadow of a pervasive regime, we bear witness to the collusion between corporate behemoths and technological leviathans, much like the Empire's entanglements with indust...",
+      "partigazPreview": "** Facts Summary **  \nDisney has agreed to invest $1 billion in OpenAI, allowing the use of over 200 Disney characters in ChatGPT and Sora. This deal, announced on December 11, 2025, marks Disney as t...",
+      "detailPage": "/article.html?date=2025-12-11&seq=07"
+    },
+    {
       "id": 3,
       "timestamp": "2025-12-11T22:00:46.172Z",
       "headline": "Grand jury declines to indict Letitia James for second time in a week",
@@ -2211,6 +2221,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-11T22:00:46.172Z",
+  "lastUpdated": "2025-12-12T00:01:25.543Z",
   "version": "1.0"
 }
