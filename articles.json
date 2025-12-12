@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 1,
+      "timestamp": "2025-12-12T12:01:04.963Z",
+      "headline": "Indiana Republicans defy Trump to reject new voting map",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cgqzzy03p59o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nTo those who find themselves enmeshed in the relentless machinery of control and power, know this: hope resides even in the heartlands of what appears to be unwavering allegian...",
+      "partigazPreview": "**Facts Summary**\n\nOn December 11, 2025, Senate Republicans in Indiana, a traditionally conservative state, rejected a voting map proposed by Donald Trump. The map aimed to benefit the Republican Part...",
+      "detailPage": "/article.html?date=2025-12-12&seq=01"
+    },
+    {
       "id": 11,
       "timestamp": "2025-12-12T00:01:25.543Z",
       "headline": "OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora",
@@ -2221,6 +2231,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-12T00:01:25.543Z",
+  "lastUpdated": "2025-12-12T12:01:04.963Z",
   "version": "1.0"
 }
