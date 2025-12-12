@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 1,
+      "timestamp": "2025-12-12T16:01:47.284Z",
+      "headline": "Trump signs order to block states from enforcing own AI rules",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nThe empire's latest maneuver reveals both its hunger for control and its willingness to suppress the autonomy of its own constituents. The executive order signed by the emperor...",
+      "partigazPreview": "**Facts Summary**\n\nOn December 11, 2025, President Donald Trump signed an executive order in the Oval Office to block states from enforcing their own artificial intelligence (AI) regulations. This mov...",
+      "detailPage": "/article.html?date=2025-12-12&seq=03"
+    },
+    {
       "id": 3,
       "timestamp": "2025-12-12T14:01:13.411Z",
       "headline": "Charlie Kirk murder accused makes first in-person court appearance",
@@ -2241,6 +2251,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-12T14:01:13.411Z",
+  "lastUpdated": "2025-12-12T16:01:47.284Z",
   "version": "1.0"
 }
