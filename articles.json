@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 10,
+      "timestamp": "2025-12-13T22:01:15.569Z",
+      "headline": "Fired University of Michigan football coach charged with stalking ",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4g44rv955xo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nIn observing the unfolding drama surrounding the prominent University of Michigan coach, Sherrone Moore, we find yet another instance where power is abused under the ever-watch...",
+      "partigazPreview": "**Facts Summary**\n\nSherrone Moore, the former University of Michigan football coach, was charged with three criminal offenses: stalking and home invasion. The charges were filed after his dismissal fr...",
+      "detailPage": "/article.html?date=2025-12-13&seq=03"
+    },
+    {
       "id": 2,
       "timestamp": "2025-12-13T20:00:42.183Z",
       "headline": "New photos from Epstein estate show Trump, Andrew and Bill Clinton",
@@ -2281,6 +2291,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-13T20:00:42.183Z",
+  "lastUpdated": "2025-12-13T22:01:15.570Z",
   "version": "1.0"
 }
