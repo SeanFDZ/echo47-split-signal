@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 2,
+      "timestamp": "2025-12-14T12:00:42.116Z",
+      "headline": "'A nightmare' - The battle over Warner Bros is turning Hollywood upside down ",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c8dyy47qy82o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow comrades,\n\nHere we stand, observing the echoes of a once-powerful institution crumbling under the weight of avarice and power struggles reminiscent of the Empire’s oppre...",
+      "partigazPreview": "**Facts Summary**\n\nThe sale of Warner Bros is causing significant upheaval in Hollywood, with Paramount and Netflix vying for control. Paramount Skydance, backed by figures close to Donald Trump, has...",
+      "detailPage": "/article.html?date=2025-12-14&seq=02"
+    },
+    {
       "id": 11,
       "timestamp": "2025-12-14T10:00:41.720Z",
       "headline": "After failure in the Senate, House GOP has its own health care proposal",
@@ -2301,6 +2311,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-14T10:00:41.720Z",
+  "lastUpdated": "2025-12-14T12:00:42.116Z",
   "version": "1.0"
 }
