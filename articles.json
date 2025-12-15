@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4,
+      "timestamp": "2025-12-15T22:01:25.928Z",
+      "headline": "'I've grown up in fear': Jewish Australians say rising antisemitism made attack predictable",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c20gl66r0wno?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "[SAFETY CHECK FAILED - VIOLENT LANGUAGE DETECTED]\n\n**Rebel Transmission**\n\nTo all receiving this signal, \n\nThe incident at Bondi Beach is a grim reflection of the fear and oppression that our people f...",
+      "partigazPreview": "**Facts Summary**\n\nOn December 14, 2025, a shooting occurred at Bondi Beach, Sydney, Australia, during a Hannukah event, resulting in at least 15 deaths and over 40 injuries. The attack was carried ou...",
+      "detailPage": "/article.html?date=2025-12-15&seq=06"
+    },
+    {
       "id": 12,
       "timestamp": "2025-12-15T20:01:08.804Z",
       "headline": "ACA shoppers face sticker shock as Congress dithers on health care",
@@ -2381,6 +2391,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-15T20:01:08.804Z",
+  "lastUpdated": "2025-12-15T22:01:25.928Z",
   "version": "1.0"
 }
