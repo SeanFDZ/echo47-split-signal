@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 8,
+      "timestamp": "2025-12-15T12:00:47.764Z",
+      "headline": "John Cena takes his final bow, after last ever WWE fight",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/videos/cy4xgxm2848o?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nComrades,\n\nIn the looming shadow of the monolithic regime, we recognize the power in the stories of individuals who embody perseverance and defiance against overwhelming domina...",
+      "partigazPreview": "**Facts Summary**\n\nJohn Cena, a prominent US actor and wrestler, concluded his WWE career with the final match of his 16-match retirement tournament in Washington on Saturday night, October 2023. This...",
+      "detailPage": "/article.html?date=2025-12-15&seq=02"
+    },
+    {
       "id": 9,
       "timestamp": "2025-12-15T10:00:44.313Z",
       "headline": "Hong Kong pro-democracy activist and mogul Jimmy Lai sentenced",
@@ -2341,6 +2351,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-15T10:00:44.313Z",
+  "lastUpdated": "2025-12-15T12:00:47.764Z",
   "version": "1.0"
 }
