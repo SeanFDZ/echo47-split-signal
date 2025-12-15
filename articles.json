@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 12,
+      "timestamp": "2025-12-15T20:01:08.804Z",
+      "headline": "ACA shoppers face sticker shock as Congress dithers on health care",
+      "source": "NPR",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/12/15/nx-s1-5644978/aca-costs-congress-health-care",
+      "nemikPreview": "**Rebel Transmission**\n\nFellow seekers of freedom, today we turn our attention to the plight of ordinary citizens under the oppressive regime symbolized by an administration that mirrors the Empire’s...",
+      "partigazPreview": "**Facts Summary**\n\nOn December 15, 2025, NPR reported that consumers are facing higher health insurance costs as Congress debates extending subsidies under the Affordable Care Act (ACA). The potential...",
+      "detailPage": "/article.html?date=2025-12-15&seq=05"
+    },
+    {
       "id": 2,
       "timestamp": "2025-12-15T18:01:30.338Z",
       "headline": "'It's outrageous' - JetBlue pilot decries near collision with US military aircraft",
@@ -2371,6 +2381,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-15T18:01:30.339Z",
+  "lastUpdated": "2025-12-15T20:01:08.804Z",
   "version": "1.0"
 }
