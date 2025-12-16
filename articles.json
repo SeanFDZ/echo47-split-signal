@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 4,
+      "timestamp": "2025-12-16T10:01:30.182Z",
+      "headline": "Eight killed in latest strikes on alleged drug boats, US military says",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c3e0wd7110vo?at_medium=RSS&at_campaign=rss",
+      "nemikPreview": "**Rebel Transmission**\n\nThe latest development in the prolonged offensive led by the administration echoes the ruthless measures of an oppressive regime. Eight lives were extinguished on the open wate...",
+      "partigazPreview": "**Facts Summary**\n\nThe US military conducted strikes on three boats accused of drug trafficking in the Pacific Ocean, resulting in eight deaths. This is part of President Donald Trump's campaign again...",
+      "detailPage": "/article.html?date=2025-12-16&seq=01"
+    },
+    {
+      "id": 4,
       "timestamp": "2025-12-15T22:01:25.928Z",
       "headline": "'I've grown up in fear': Jewish Australians say rising antisemitism made attack predictable",
       "source": "BBC",
@@ -2391,6 +2401,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-15T22:01:25.928Z",
+  "lastUpdated": "2025-12-16T10:01:30.182Z",
   "version": "1.0"
 }
