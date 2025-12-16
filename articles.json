@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 19,
+      "timestamp": "2025-12-16T14:01:09.000Z",
+      "headline": "The U.S. added just 64,000 jobs in November -- a sign the labor market is slowing",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/12/16/nx-s1-5645023/jobs-employment-labor-market",
+      "nemikPreview": "**Rebel Transmission**\n\nIn yet another display of the decaying conditions under the rule of the current regime, a recent report unveils a staggering slowdown in the labor market, akin to a rusty cog w...",
+      "partigazPreview": "**Facts Summary**\n\nThe U.S. labor market is showing signs of slowing down. In November 2025, only 64,000 jobs were added, and the unemployment rate increased to 4.6% from 4.4% in September. The job ma...",
+      "detailPage": "/article.html?date=2025-12-16&seq=02"
+    },
+    {
       "id": 4,
       "timestamp": "2025-12-16T10:01:30.182Z",
       "headline": "Eight killed in latest strikes on alleged drug boats, US military says",
@@ -2401,6 +2411,6 @@
       "detailPage": "/article.html?date=2025-10-25"
     }
   ],
-  "lastUpdated": "2025-12-16T10:01:30.182Z",
+  "lastUpdated": "2025-12-16T19:20:28.243Z",
   "version": "1.0"
 }
